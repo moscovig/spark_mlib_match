@@ -1,27 +1,20 @@
 # spark_mlib_match
-
-#Data
+##Data
 1. Find the data files under /data/*.csv   - partner1.csv, partner2.csv, training.csv 
 2. The data files are a result of 
 	a.openning the /data/match.xksx file with a Spreadshit tool, replacing all "," with ""
 		and saving each sheet as csv.
 	b. for each csv, remove headers: cat file.csv | tail -n +2 > no_headers_file.csv	
-
-#
 ##Build
 1. sbt assembly plugin required (already exists under project/assembly.sbt)
 2. Build command:  sbt assembly
 3. The executable sohuld be found under target/scala-2.10/  (the folder will be created after the build ) 
-
-
-#SPARK
+##SPARK
 1. Spark 1.6.1 is required
-
 ##Run using spark standalone
 1. move the jar into your spark environment  (for instance /home/spark/jars)
 2. move the data files into spark host  (for instance - /home/spark/data/)
 3. submit command:
-
 	Remove any existing model:
 
 	rm -rf  /home/spark/target/tmp/myDecisionTreeClassificationModel/*
@@ -29,8 +22,7 @@
 	run:
 
 	spark-submit  /home/spark/jars/spark_match-assembly-1.0.jar  /home/spark/data/training.csv  /home/spark/data/partner1.csv  /home/spark/data/partner2.csv  > result.csv
-
-#Result
+##Result
 1. The result is a Csv file containing the ids of the algorithm suggested matches in the format
   partner1  partner2
   	3             44
@@ -42,11 +34,9 @@
 	a. remove latin tokens
 	b. remove tokens of the city name from the hotel name
 	c. remove stop words from the hotel names 
-
 ##Classes: 
 1 - matching
 0 - not maching
-
 ##Blocking
 Country field
 
