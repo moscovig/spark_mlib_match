@@ -1,14 +1,15 @@
 # spark_mlib_match
 ##Data
-1. Find the data files under /data/*.csv   - partner1.csv, partner2.csv, training.csv 
-2. The data files are a result of 
+1. Find the data files under /data/*.csv   - partner1.csv, partner2.csv, training.csv </br>
+2. The data files are a result of </br>  
 	a.openning the /data/match.xksx file with a Spreadshit tool, replacing all "," with ""
-		and saving each sheet as csv.
-	b. for each csv, remove headers: cat file.csv | tail -n +2 > no_headers_file.csv	
+		and saving each sheet as csv. </br>
+	b. for each csv, remove headers: cat file.csv | tail -n +2 > no_headers_file.csv </br>
+
 ##Build
-1. sbt assembly plugin required (already exists under project/assembly.sbt)
-2. Build command:  sbt assembly
-3. The executable sohuld be found under target/scala-2.10/  (the folder will be created after the build ) 
+1. sbt assembly plugin required (already exists under project/assembly.sbt) </br>
+2. Build command:  sbt assembly</br>
+3. The executable sohuld be found under target/scala-2.10/  (the folder will be created after the build ) </br>
 ##SPARK
 1. Spark 1.6.1 is required
 ##Run using spark standalone
