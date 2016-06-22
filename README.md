@@ -66,6 +66,8 @@ We have:
 Match: 500 samples
 No Match: 55240 samples
 
+#Recall Precision
+![alt tag](https://github.com/moscovig/spark_mlib_match/blob/master/rc_plot.jpeg)
 
 #
 ##Spark Model params
