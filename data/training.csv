@@ -1,0 +1,501 @@
+hotel_name,country_code,city_name,star_rating,latitude,longitude,partner_hotel_name,partner_country_code,partner_city_name,partner_star_rating,partner_latitude,partner_longitude
+Asterisk Hotel 3 stars,NL,Amsterdam,3,52.358833,4.8938675,Asterisk Hotel 3 Stars,NL,Amsterdam,3,52.3588347328,4.8938673735
+NH Amsterdam Noord Hotel,NL,Amsterdam,4,52.392228,4.910916,NH Amsterdam Noord,NL,Amsterdam,4,52.3921931675,4.9108967185
+Aadam Wilhelmina Hotel,NL,Amsterdam,2,52.3527984619,4.8619060516,Aadam Hotel Wilhelmina,NL,Amsterdam,2,52.3527546429,4.8617465794
+Mercure Hotel Eindhoven,NL,Eindhoven,4,51.42598651,5.489368737,Best Western Eindhoven,NL,Eindhoven,4,51.425986506,5.4893687367
+Crowne Plaza Den Haag Promenade Hotel,NL,The Hague,4,52.09702283,4.287466578,Crowne Plaza Den Haag Promenade,NL,The Hague,5,52.096863558,4.2872053385
+Ink Hotel Amsterdam - Mgallery Collection,NL,Amsterdam,4,52.3754305198,4.8927998543,INK Hotel Amsterdam by MGallery,NL,Amsterdam,4,52.3755639716,4.8928977549
+Hotel Voncken,NL,Valkenburg,4,50.862537,5.8330054,Hampshire Hotel â€“ Voncken Valkenburg,NL,Valkenburg,4,50.8625377788,5.8330053091
+Campanile Hotel And Restaurant Eindhoven,NL,Eindhoven,3,51.4333874233,5.4206525367,Campanile Hotel & Restaurant Eindhoven,NL,Eindhoven,3,51.433447419,5.420524478
+Boutique Hotel Corona - Hampshire Classic,NL,The Hague,4,52.07905,4.310122,Boutique Hotel Corona,NL,The Hague,4,52.0790493951,4.3101221323
+Hotel-Restaurant Nieuwegein-Utrecht,NL,Utrecht,4,52.0265002,5.0684853,Fletcher Hotel-Restaurant Nieuwegein-Utrecht,NL,Nieuwegein,4,52.0264026186,5.0686186552
+Hotel Vondel,NL,Amsterdam,4,52.362685464,4.8780511196,Hotel Vondel Amsterdam,NL,Amsterdam,4,52.3625709971,4.8781127483
+Hotel Het Wapen van Delden,NL,Delden,3,52.25911,6.681731,Hotel Wapen van Delden,NL,Delden,3,52.2591089296,6.6817313433
+Hotel de Looier,NL,Amsterdam,3,52.3685772683,4.8794746399,Hotel De Looier,NL,Amsterdam,3,52.368276749,4.8796523362
+Hotel Estherea,NL,Amsterdam,4,52.37050808,4.888559282,Hotel EstherÃ©a,NL,Amsterdam,4,52.3704728678,4.8884908855
+Campanile Hotel And Restaurant Leeuwarden,NL,Leeuwarden,3,53.1803725947,5.7976055145,Campanile Hotel & Restaurant Leeuwarden,NL,Leeuwarden,3,53.1803163342,5.7976564765
+Campanile & Restaurant 's Hertogenbosch Hotel,NL,s-Hertogenbosch,3,51.7218606439,5.2938734642,Campanile Hotel & Restaurant 's Hertogenbosch,NL,Den Bosch,3,51.7222431186,5.2939081192
+Hotel La Boheme,NL,Amsterdam,2,52.3641738892,4.8816204071,Hotel La BohÃ¨me,NL,Amsterdam,2,52.3645057534,4.8810759187
+Hampshire - Hotel Mooi Veluwe,NL,Putten,4,52.2370726,5.6583709,Hampshire Hotel - Mooi Veluwe,NL,Putten,3,52.2371384159,5.6582701206
+Nh Atlanta Rotterdam Hotel,NL,Rotterdam,4,51.9211577924,4.4791066647,NH Atlanta Rotterdam Hotel,NL,Rotterdam,4,51.9210866601,4.4787606597
+Heemskerk Apartments Museumplein - Adults only,NL,Amsterdam,4,52.3557858368,4.8777405027,Heemskerk Suites Museumplein - Adults Only,NL,Amsterdam,4,52.3557911065,4.8777573556
+Dorint Airport Hotel Amsterdam,NL,Amsterdam,4,52.332954,4.771838,Dorint Airport-Hotel Amsterdam,NL,Badhoevedorp,4,52.3333518197,4.7720689327
+Park Hotel Amsterdam,NL,Amsterdam,4,52.3615441865,4.8832025349,Park Hotel,NL,Amsterdam,4,52.3615931452,4.8830255494
+Banks Mansion Hotel,NL,Amsterdam,4,52.365308,4.893001,Banks Mansion - All Inclusive Hotel,NL,Amsterdam,4,52.3653832244,4.8930928856
+Hotel Des Indes a Luxury Collection Hotel The Hague,NL,The Hague,5,52.08381,4.31359,Hotel Des Indes The Hague - a Luxury Collection Hotel,NL,The Hague,5,52.0837479551,4.3134306371
+Hotel De L Europe Amsterdam,NL,Amsterdam,5,52.367526,4.894482,De L'Europe Amsterdam,NL,Amsterdam,5,52.3676388551,4.8942053318
+NH Groningen Hotel de Ville,NL,Groningen,4,53.22006893,6.563805892,NH Groningen Hotel De Ville,NL,Groningen,4,53.2200656705,6.5638764203
+MÃ¶venpick Hotel 's-Hertogenbosch,NL,s-Hertogenbosch,4,51.6769065857,5.3327031136,MÃ¶venpick Hotel 's Hertogenbosch,NL,Den Bosch,4,51.6769412822,5.3326606751
+Park Plaza Eindhoven Hotel,NL,Eindhoven,4,51.4347381592,5.4856801033,Park Plaza Eindhoven,NL,Eindhoven,4,51.434726597,5.485483557
+Postillion Hotel Bunnik,NL,Bunnik,3,52.0660400391,5.2003874779,Postillion Utrecht Bunnik,NL,Bunnik,3,52.0615117597,5.2056714892
+Park Plaza Utrecht Hotel,NL,Utrecht,4,52.0915718079,5.1060800552,Park Plaza Utrecht,NL,Utrecht,4,52.0915438688,5.1066701487
+Fletcher Hotel-Restaurant s-Hertogenbosch,NL,s-Hertogenbosch,4,51.7202283,5.3344703,Fletcher Hotel-Restaurant â€˜s-Hertogenbosch,NL,Den Bosch,4,51.7200365136,5.3347796202
+Bastion Amsterdam Centrum Noord Hotel,NL,Amsterdam,3,52.3958587646,4.9287700653,Bastion Hotel Amsterdam Noord,NL,Amsterdam,3,52.3958202257,4.9289774895
+Bastion Hotel Bussum-Zuid/Hilversum,NL,Bussum,3,52.265938,5.1623726,Bastion Hotel Bussum Hilversum,NL,Bussum,3,52.2659364735,5.1623725891
+Bastion Hotel Rotterdam / Barendrecht,NL,Rotterdam,3,51.86991,4.549202,Bastion Hotel Barendrecht,NL,Barendrecht,3,51.8699116578,4.549202174
+Bastion Hotel Rotterdam / Brielle - Europoort,NL,Brielle,3,51.898895,4.171213,Bastion Hotel Brielle - Europoort,NL,Brielle,3,51.8988944799,4.1712132096
+Bastion Hotel Rotterdam/Rhoon,NL,Rotterdam,3,51.86882,4.4523544,Bastion Hotel Rotterdam Zuid,NL,Rotterdam,3,51.8688202566,4.4523543119
+Hotel De Paris Amsterdam,NL,Amsterdam,3,52.3656594239,4.8796227132,Hotel De Paris,NL,Amsterdam,3,52.3657046455,4.8798239976
+Apollofirst - Hampshire Classic,NL,Amsterdam,4,52.350396,4.8756404,Apollofirst Hotel,NL,Amsterdam,4,52.3504687615,4.8756457865
+Mercure Amsterdam Centre Canal District,NL,Amsterdam,4,52.360872846,4.8930358887,Mercure Hotel Amsterdam Centre Canal District,NL,Amsterdam,4,52.3609432794,4.8934462667
+NH Collection Amsterdam Barbizon Palace,NL,Amsterdam,5,52.3764915466,4.9003734589,NH Amsterdam Barbizon Palace,NL,Amsterdam,5,52.3764588252,4.9002456665
+Nh Best Hotel,NL,Best,3,51.4896940309,5.3931283951,NH Best Hotel,NL,Best,3,51.489807597,5.3926563263
+Nh Geldrop Hotel,NL,Geldrop,4,51.40950135,5.562434971,NH Geldrop,NL,Geldrop,4,51.4090258104,5.5626413226
+Hampshire Hotel - De Broeierd Enschede,NL,Enschede,4,52.2400154,6.8436283,Hampshire Hotel â€“ De Broeierd Enschede,NL,Enschede,4,52.2397590601,6.8436033279
+Worldhotel Bel Air The Hague,NL,The Hague,4,52.0901830503,4.2827314138,Marriott Hotel The Hague,NL,The Hague,4,52.0901352582,4.2827099562
+Hotel Derlon Maastricht,NL,Maastricht,4,50.8477931092,5.6931388378,Derlon Hotel Maastricht,NL,Maastricht,4,50.8477626262,5.693192482
+Fletcher Hotel-Restaurant Carlton,NL,Naaldwijk,4,51.991364,4.2216629,Fletcher Hotel Restaurant Carlton,NL,Naaldwijk,4,51.9913455855,4.2215009406
+Wellnessresort Fontana Bad Nieuweschans,NL,Nieuweschans,0,53.1797,7.203743,Fontana Resort Bad Nieuweschans,NL,Bad-Nieuweschans,0,53.1797006787,7.2037428618
+Golden Tulip Val Monte,NL,Berg En Dal,4,51.82446,5.9165373,Fletcher Parkhotel Val Monte,NL,Berg en Dal,4,51.8244594801,5.9165373445
+NH Capelle Hotel,NL,Rotterdam,4,51.9576883806,4.5633226633,NH Capelle Rotterdam,NL,Capelle aan den IJssel,4,51.9578982975,4.5631858707
+Golden Tulip L'Escaut,NL,Terneuzen,4,51.339516,3.82389,Golden Tulip L'Escaut Terneuzen,NL,Terneuzen,4,51.3395165738,3.823889941
+NH Zandvoort,NL,Zandvoort,4,52.3844404768,4.5335662365,NH Zandvoort Hotel,NL,Zandvoort,4,52.3842685796,4.5338049531
+NH Zoetermeer,NL,Zoetermeer,4,52.0462223326,4.4766926765,NH Zoetermeer Hotel,NL,Zoetermeer,4,52.0461612964,4.4765578955
+WestCord Residentie Boschrijck,NL,West-Terschelling,4,53.37015,5.220421,WestCord ApartHotel Boschrijck,NL,West-Terschelling,4,53.3701533605,5.2204209566
+Carlton President Hotel,NL,Utrecht,4,52.1209027,5.038205254,Carlton President,NL,Utrecht,4,52.120667295,5.0383733958
+Carlton Oasis Hotel,NL,Spijkenisse,4,51.8513220131,4.3083394785,Carlton Oasis,NL,Spijkenisse,4,51.8525736316,4.3054550886
+Hotel Van Oranje Autograph Collection,NL,Noordwijk,5,52.247108,4.432682,Hotel van Oranje Autograph Collection,NL,Noordwijk aan Zee,5,52.2471668196,4.4325006008
+Park Plaza Victoria Amsterdam Hotel,NL,Amsterdam,4,52.3770980835,4.8979001045,Park Plaza Victoria Amsterdam,NL,Amsterdam,4,52.3773479298,4.897775352
+ibis Amsterdam Airport,NL,Amsterdam,3,52.3250078905,4.7940051699,Ibis Schiphol Amsterdam Airport,NL,Badhoevedorp,3,52.3249142228,4.7938799858
+Holiday Inn Amsterdam Hotel,NL,Amsterdam,4,52.33515074,4.888620176,Holiday Inn Amsterdam,NL,Amsterdam,4,52.3351505941,4.8882816732
+Crowne Plaza Maastricht Hotel,NL,Maastricht,4,50.8471529617,5.6986105442,Crowne Plaza Maastricht,NL,Maastricht,4,50.8470479631,5.6985247135
+Sheraton Amsterdam Airport Hotel and Conference Center,NL,Amsterdam,5,52.30814,4.756951,Sheraton Amsterdam Airport Schiphol,NL,Schiphol,4,52.3090279966,4.7599393129
+Hermitage Hotel Amsterdam,NL,Amsterdam,2,52.3888768326,4.9438476563,Hotel Hermitage Amsterdam,NL,Amsterdam,2,52.3645810945,4.9033637345
+Princess Hostel Amsterdam,NL,Amsterdam,2,52.3631286354,4.8754921018,Princess Hostel Leidse Square,NL,Amsterdam,0,52.3629563172,4.8754620552
+Hotel The Neighbours Magnolia,NL,Amsterdam,3,52.355482,4.869103,Hotel The Neighbour's Magnolia,NL,Amsterdam,3,52.3555212162,4.8691374064
+Carlton Beach Hotel,NL,The Hague,4,52.1171807185,4.2877739668,Carlton Beach,NL,Scheveningen,4,52.1171873065,4.2875979468
+Holiday Inn IJmuiden Seaport Beach Hotel,NL,Ijmuiden,4,52.4582256629,4.5665574074,Holiday Inn IJmuiden Seaport Beach,NL,IJmuiden,4,52.4571992625,4.5637732744
+Park Plaza Vondelpark Amsterdam Hotel,NL,Amsterdam,4,52.3542671204,4.8664369583,Park Plaza Vondelpark Amsterdam,NL,Amsterdam,4,52.3542499655,4.866425693
+Hampshire Designhotel - Maastricht,NL,Maastricht,4,50.8497397,5.7027886,Hampshire - Designhotel Maastricht,NL,Maastricht,4,50.8497050318,5.7028189302
+Herbergh Hotel Amsterdam Airport,NL,Amsterdam,3,52.33450157,4.773894846,Hotel Herbergh Amsterdam Airport,NL,Badhoevedorp,3,52.3345015686,4.7738948464
+Fletcher Hotel-Restaurant Jan van Scorel,NL,Schoorl,4,52.7060585022,4.6920228005,Fletcher Hotel Jan van Scorel,NL,Schoorl,4,52.7075887473,4.690797329
+InterContinental Amstel Amsterdam Hotel,NL,Amsterdam,5,52.35998069,4.905264437,InterContinental Amstel Amsterdam,NL,Amsterdam,5,52.3600415594,4.9054652453
+Hilton Royal Parc Soestduinen Hotel,NL,Soestduinen,4,52.14196,5.29564,Hilton Royal Parc Soestduinen,NL,Soestduinen,4,52.1421999587,5.2931141853
+Crowne Plaza Amsterdam-schiphol Hotel,NL,Amsterdam,4,52.29611005,4.70817771,Crowne Plaza Amsterdam Schiphol,NL,Hoofddorp,4,52.2961577608,4.7081418335
+Crowne Plaza Amsterdam City Centre Hotel,NL,Amsterdam,4,52.3771977,4.895517137,Crowne Plaza Amsterdam City Centre,NL,Amsterdam,4,52.3772136647,4.8954565823
+Holiday Inn - Eindhoven,NL,Eindhoven,4,51.44486922,5.475819023,Holiday Inn Eindhoven,NL,Eindhoven,4,51.44471633,5.4757136107
+Malie Hotel Utrecht - Hampshire Hotels,NL,Utrecht,4,52.094345,5.13644,Malie Hotel Utrecht - Hampshire Hotel,NL,Utrecht,4,52.094346538,5.1364399865
+Hampshire Hotel - Newport Huizen,NL,Huizen,4,52.3113638,5.2499937,Hampshire Hotel â€“ Newport Huizen,NL,Huizen,4,52.311643574,5.2505207062
+Nh Groningen Hotel,NL,Groningen,4,53.22008295,6.576069164,NH Groningen Hotel,NL,Groningen,4,53.2202868901,6.5762011707
+Bilderberg Residence Heideborgh,NL,Barneveld,4,52.2249,5.70852,Bilderberg RÃ©sidence Groot Heideborgh,NL,Garderen,4,52.2198634238,5.7034546137
+Campanile Hotel And Restaurant Breda,NL,Breda,3,51.5911758985,4.8341345787,Campanile Hotel & Restaurant Breda,NL,Breda,3,51.5913492009,4.8337939382
+New West Inn,NL,Amsterdam,3,52.3622650042,4.7947432457,New West Inn Amsterdam,NL,Amsterdam,3,52.3623732173,4.7946631908
+Campanile Hotel And Restaurant Venlo,NL,Venlo,3,51.3922161272,6.1753973282,Campanile Hotel & Restaurant Venlo,NL,Venlo,3,51.3922420873,6.1754590273
+Campanile Hotel And Restaurant Amersfoort,NL,Amersfoort,3,52.1890885903,5.4072475433,Campanile Hotel & Restaurant Amersfoort,NL,Amersfoort,3,52.1893171541,5.407390371
+Hotel Kasteel Kerckebosch,NL,Utrecht,0,52.0746375568,5.2591891768,Kasteel Kerckebosch,NL,Zeist,4,52.0749924612,5.2590984106
+Campanile Hotel And Restaurant Delft,NL,Delft,3,52.02651966,4.3635773,Campanile Hotel & Restaurant Delft,NL,Delft,3,52.0248760108,4.3652576208
+Campanile Hotel And Restaurant Zwolle,NL,Zwolle,3,52.5163066064,6.0906952873,Campanile Hotel & Restaurant Zwolle,NL,Zwolle,3,52.5161825067,6.0912430286
+Hilton Amsterdam Hotel,NL,Amsterdam,5,52.350894855,4.8720308783,Hilton Amsterdam,NL,Amsterdam,5,52.3512961323,4.8720636964
+MÃ¶venpick Hotel Den Haag-Voorburg,NL,The Hague,4,52.0656318665,4.3590106964,MÃ¶venpick Hotel Den Haag - Voorburg,NL,Voorburg,4,52.0659054711,4.3591435254
+Luxer Hotel,NL,Amsterdam,3,52.3760807866,4.8991913907,Hotel Luxer,NL,Amsterdam,3,52.3760273656,4.8992170394
+Hotel Schiphol A4 Hotel - Amsterdam Airport,NL,Amsterdam,4,52.258438,4.688852,Van der Valk Hotel A4 Schiphol,NL,Hoofddorp,4,52.2588199793,4.6884584427
+Campanile Hotel And Restaurant Gorinchem,NL,Gorinchem,3,51.8410410645,5.0046372414,Campanile Hotel & Restaurant Gorinchem,NL,Gorinchem,3,51.8412183835,5.0044548512
+Hampshire Hotel - Wesseling,NL,Dwingeloo,4,52.834347,6.3658853,Hotel Wesseling,NL,Dwingeloo,4,52.8343476203,6.3658851385
+Campanile Hotel And Restaurant Rotterdam Oost,NL,Rotterdam,3,51.9474295392,4.5440563303,Campanile Hotel & Restaurant Rotterdam Oost,NL,Rotterdam,3,51.9473830604,4.5439973474
+Campanile Hotel And Restaurant Amsterdam Zuid Oost,NL,Amsterdam,3,52.3112831446,4.9851391039,Campanile Hotel & Restaurant Amsterdam Zuid-Oost,NL,Amsterdam,3,52.3117288442,4.9862158299
+Droste's dineren en logeren,NL,Tubbergen,4,52.421078,6.7980185,Droste's Herberg,NL,Tubbergen,4,52.4210786063,6.7980185151
+Hampshire Hotel - Bon'Aparte,NL,Barchem,4,52.13868708,6.423206627,Boetiek Hotel BonAparte Lochem,NL,Barchem,4,52.1386870811,6.4232066274
+Old Quarter Hotel,NL,Amsterdam,2,52.3759117126,4.8988718987,Hotel Old Quarter,NL,Amsterdam,2,52.3759119269,4.8988629878
+Duin & Kruidberg Country Estate,NL,Santpoort-Noord,4,52.4343279311,4.6259790125,Landgoed Duin & Kruidberg,NL,Santpoort-Noord,4,52.4343245953,4.6257859469
+Hampshire Hotel â€“ Stakenberg,NL,Elspeet,3,52.31111,5.7506776,Landgoed Stakenberg,NL,Elspeet,3,52.3111106319,5.7506775856
+Ibis Amsterdam City West Hotel,NL,Amsterdam,3,52.39199,4.84534,ibis Amsterdam City West,NL,Amsterdam,3,52.3922488195,4.8501044512
+Fletcher Hotel-Restaurant Doorwerth,NL,Doorwerth,4,51.977386,5.7805896,Fletcher Hotel Restaurant Doorwerth - Arnhem,NL,Doorwerth,4,51.977386538,5.7805895805
+Saillant Hotel Gulpenerland,NL,Gulpen,4,50.8159139349,5.9022760391,Hotel-Restaurant Gulpenerland,NL,Gulpen,4,50.8159291868,5.9024128318
+Worldhotel Grand Winston The Hague - Rijswijk,NL,Rijswijk,4,52.03826022,4.323958253,Worldhotel Grand Winston,NL,Rijswijk,4,52.0383413692,4.3238013983
+Steyn Hotel,NL,Zeist,3,52.0897102356,5.2458949089,Steyn Apartments,NL,Zeist,3,52.0899918815,5.2455505729
+Campanile Vlaardingen Hotel,NL,Vlaardingen,3,51.9232305068,4.3625190854,Campanile Hotel & Restaurant Vlaardingen,NL,Vlaardingen,3,51.9231825361,4.3624386191
+Hotel Restaurant Cafe Borst,NL,Castricum,0,52.55906,4.65639,Hotel Fase Fier Eten en Drinken,NL,Castricum,0,52.5590588727,4.6563899517
+Old Nickel Hotel,NL,Amsterdam,1,52.37631,4.899617,The Old Nickel Hotel,NL,Amsterdam,1,52.3763294696,4.89954561
+Ibis Den Haag City Center,NL,The Hague,3,52.0762684323,4.3071395159,ibis Den Haag City Centre,NL,The Hague,3,52.0762927479,4.3069182336
+Lloyd Hotel,NL,Amsterdam,3,52.3742485046,4.9346528053,Lloyd Hotel and Cultural Embassy,NL,Amsterdam,3,52.3743268661,4.9348032475
+Hotel St. Martenslane Maastricht,NL,Maastricht,3,50.8515017274,5.7034921646,St. Martenslane Maastricht,NL,Maastricht,3,50.8515220478,5.7032802701
+Dutch Design Hotel Artemis,NL,Amsterdam,4,52.3417267,4.8249305,Hotel Artemis Amsterdam,NL,Amsterdam,4,52.3417058724,4.8250392079
+NH Den Haag Hotel,NL,The Hague,4,52.0787559763,4.336874485,NH Den Haag,NL,The Hague,4,52.0788853775,4.3370126188
+Ibis Styles Amsterdam CS Hotel,NL,Amsterdam,3,52.378036499,4.8967299461,ibis Styles Amsterdam Central Station,NL,Amsterdam,3,52.3780266173,4.8965992034
+Max Brown Museum Square,NL,Amsterdam,0,52.3601660486,4.8823461197,Max Brown Hotel Museum Square,NL,Amsterdam,0,52.3599989709,4.8820468783
+Hostellerie Schuddebeurs - Hampshire Classic,NL,Schuddebeurs,3,51.67523,3.9449286,Hampshire Hotel â€“ Hostelerie Schuddebeurs,NL,Schuddebeurs,3,51.6752264659,3.9449286461
+NH Veluwe Conference Centre Sparrenhorst,NL,Nunspeet,4,52.3785424092,5.797665015,NH Veluwe Sparrenhorst,NL,Nunspeet,4,52.3776295577,5.7975625992
+Hotel De Rustende Jager,NL,Nieuw-Vennep,4,52.264156,4.635412,Best Western Hotel De Rustende Jager,NL,Nieuw-Vennep,4,52.264155405,4.635412395
+Hotel Flipper,NL,Amsterdam,2,52.3492350492,4.9084854126,Budget Hotel Flipper,NL,Amsterdam,2,52.3489163755,4.9086087942
+Ons Epen,NL,Epen,3,50.7769,5.9126186,Appartementen Hotel Ons Epen,NL,Epen,3,50.7769027419,5.9126186371
+Roemer Hotel,NL,Amsterdam,4,52.361713,4.878204,Hotel Roemer Amsterdam,NL,Amsterdam,4,52.3617303243,4.8780785501
+WestCord Residentie Vlierijck,NL,Oost-Vlieland,4,53.297447,5.0740743,Vlierijck,NL,Oost-Vlieland,4,53.2974480228,5.0740742683
+Hotel Inner Amsterdam,NL,Amsterdam,2,52.357026,4.877238,Inner Amsterdam,NL,Amsterdam,0,52.3569550153,4.8774180561
+White Tulip Hostel,NL,Amsterdam,0,52.3747542486,4.8973864317,The White Tulip Hostel,NL,Amsterdam,0,52.374700212,4.8973153532
+Damrak Inn Hotel,NL,Amsterdam,2,52.3755531971,4.8963940144,Budget Hotel Damrak Inn,NL,Amsterdam,2,52.3750653674,4.8953506351
+Hampshire Hotel Mijdrecht,NL,Amsterdam,4,52.216045,4.874712,Hampshire Hotel - Mijdrecht,NL,Mijdrecht,4,52.2160953835,4.8742228746
+Grand Hotel Amrath Amsterdam,NL,Amsterdam,5,52.3744464026,4.9037647247,Grand Hotel AmrÃ¢th Amsterdam,NL,Amsterdam,5,52.3746691,4.9038492143
+Fletcher Hotel-Restaurant De Geulvallei,NL,Valkenburg,3,50.8703162,5.7918981,Fletcher Hotel Restaurant De Geulvallei,NL,Valkenburg,3,50.8702604452,5.7919339836
+Park Plaza Amsterdam Airport Hotel,NL,Amsterdam,4,52.3488085994,4.7674648403,Park Plaza Amsterdam Airport,NL,Lijnden,4,52.3482945866,4.7652286291
+citizenM Hotel Schiphol Airport,NL,Amsterdam,4,52.309338,4.7559133,citizenM Schiphol Airport,NL,Schiphol,4,52.3093362984,4.7559133172
+Hotel Cafe Restaurant Abina,NL,Amsterdam,1,52.311311,4.84688,Hotel CafÃ© Restaurant Abina,NL,Amstelveen,0,52.3113598856,4.8466685414
+Pollentia Club Resort,ES,Majorca,4,39.863388,3.0933595,PortBlue Club Pollentia Resort & Spa,ES,Alcudia,4,39.8633878087,3.0933594704
+Mercure Sao Paulo Pamplona Hotel,BR,Sao Paulo,3,-23.56854988,-46.65812954,Mercure Sao Paulo Pamplona,BR,Sao Paulo,3,-23.5684672022,-46.658255363
+Novotel SP Jaragua Conventions Hotel,BR,Sao Paulo,4,-23.548377,-46.643363,Novotel JaraguÃ¡ SÃ£o Paulo Conventions,BR,Sao Paulo,4,-23.5484211212,-46.6432419419
+Room Mate Leo Hotel,ES,Granada,3,37.1741638184,-3.6002707481,Room Mate Leo,ES,Granada,3,37.1742116925,-3.6002728343
+Astoria Hotel,GR,Thessaloniki,3,40.6362876892,22.9362030029,Astoria,GR,ThessalonÃ­ki,3,40.6363681682,22.9361110926
+Axos Hotel,GR,Crete Island,3,35.3691635132,24.533164978,Axos,GR,PlatanÃ©s,3,35.3693415599,24.5334255695
+Gastro-Posada Real Casa del Abad,ES,Cubillas De Santa Marta,4,41.9136990077,-4.7800692916,Gastro-Posada Casa del Abad,ES,Ampudia,4,41.9136990077,-4.7800692916
+Campanile Barcelona South Cornella De Llobregat Hotel,ES,Cornella De Llobregat,3,41.3487216979,2.0831108093,Campanile Barcelona Sud - Cornella,ES,CornellÃ  de Llobregat,3,41.3481065581,2.0827353001
+Margarita Studios Ambelas,GR,Paros Island,3,37.10591689,25.26511073,Margarita Studios,GR,Ambelas,3,37.1063083522,25.2648505569
+Hampton Park Hotel,BR,Sao Paulo,3,-23.570732,-46.65775,Hampton Park By BHG,BR,Sao Paulo,3,-23.5707314308,-46.6577484255
+Hotel Restaurant Arcen,NL,Arcen,3,51.47406,6.17979,Hotel Arcen,NL,Arcen,3,51.4740008173,6.1798605323
+Hotel Barcelo Santa Cruz Contemporaneo,ES,Tenerife,3,28.4743877581,-16.253027916,Barcelo Santa Cruz ContemporÃ¡neo,ES,Santa Cruz de Tenerife,3,28.474101292,-16.2529219687
+Hotel Zorbas Beach Village,GR,Crete Island,2.5,35.5921669006,24.0821170807,Zorbas Beach Village Hotel,GR,Stavros,0,35.5915947283,24.0822914243
+Bed and Breakfast Fashion House,ES,Barcelona,0,41.3901252747,2.1750044823,Fashion House,ES,Barcelona,0,41.3902015218,2.1748504043
+Marvi Hotel,ES,Barcelona,2,41.3857844655,2.1650576592,Hotel Marvi,ES,Barcelona,2,41.3858408125,2.1650321782
+Possidi Holidays Resort & Suites Hotel,GR,Chalkidiki,5,39.9783032879,23.3740460873,Possidi Holidays Resort & Suite Hotel,GR,Possidi,5,39.9783779792,23.3739173412
+Rusticae Hotel Quinta de los Cedros,ES,Madrid,4,40.459827,-3.663009,La Quinta de los Cedros,ES,Madrid,4,40.459665468,-3.662994951
+HG la Molina Hotel,ES,La Molina-Alp,4,42.335378,1.941555,HG La Molina,ES,La Molina,4,42.337142606,1.9421446323
+Hotel Sun Palace Albir,ES,Albir,4,38.566994491,-0.0672575831,Sun Palace Albir & Spa,ES,Albir,4,38.5670182556,-0.0657945871
+Hotel Jupiter,NL,Amsterdam,2.5,52.3649101257,4.8778114319,Jupiter Hotel,NL,Amsterdam,3,52.364911939,4.8778116703
+Hotel Rustico Spa Finisterrae,ES,Finisterre,2,42.904964447,-9.2691116333,Hotel RÃºstico Spa Finisterrae,ES,Fisterra,2,42.9050045652,-9.2692007202
+Rusticae Torre Do Rio Hotel,ES,Caldas De Reyes,0,42.609500911,-8.6218321323,Torre do Rio,ES,Caldas de Reis,0,42.6097022653,-8.62185359
+Liostasi Ios Hotel and Spa,GR,Ios,4,36.7248306274,25.2776508331,Liostasi Hotel & Suites,GR,Ios Chora,4,36.7249544798,25.2779102325
+Domes of Elounda All Suite Resort,GR,Crete Island,5,35.286266,25.72526,Domes of Elounda Autograph Collection,GR,EloÃºnda,5,35.2862649827,25.7252597809
+Elba Costa Ballena Beach And Thalasso Resort,ES,Cadiz,4,36.67475887,-6.408036053,Elba Costa Ballena Beach & Thalasso Resort,ES,Costa Ballena,4,36.6747588721,-6.4080360532
+Mas del Joncar Hotel,ES,Sant Pere Pescador,0,42.1938018799,3.0913999081,Mas del Joncar,ES,Sant Pere Pescador,0,42.1941564973,3.0915784836
+The Margi Hotel,GR,Athens,5,37.8137016296,23.7738838196,The Margi,GR,Athens,5,37.814742434,23.7732768059
+Ilissos Hotel,GR,Athens,4,37.9614715576,23.7203731537,Ilissos,GR,Athens,4,37.9613287597,23.7201851606
+Apartments Ciutat Vella,ES,Barcelona,2.5,41.3821147602,2.1731907874,Apartaments Ciutat Vella,ES,Barcelona,0,41.3821147602,2.1731907874
+Summerland Holidays Resort,GR,Kastraki,0,37.0052053234,25.3888678551,Summerland Holiday's Resort,GR,Kastraki,0,37.0057528058,25.3888007998
+Hotel Ritz by Belmond,ES,Madrid,5,40.415745,-3.6926441,Hotel Ritz Madrid,ES,Madrid,5,40.4157465114,-3.6926440895
+Hostal Bahia,ES,Madrid,0,40.4150810242,-3.7031800747,Hostal Bahia Madrid,ES,Madrid,0,40.4150521846,-3.703173101
+Hotel Castillo de Gorraiz Golf and Spa,ES,Gorraiz,4,42.8218803106,-1.5790271759,Hotel Castillo de Gorraiz Golf & Spa,ES,Gorraiz,4,42.8219669109,-1.578887701
+Aparthotel Panoramica Garden,ES,Tenerife,3,28.3973274231,-16.5812454224,Hotel Panoramica Garden,ES,Los Realejos,3,28.3973558207,-16.5811640024
+Sun Rise,GR,Zakynthos Island,2,37.80537613,20.87563276,Sun Rise Hotel,GR,Tsilivi,2,37.8053761348,20.8756327629
+Rio 180Â° Boutique Hotel,BR,Rio De Janeiro,0,-22.934488,-43.195366,The Villa Rio,BR,Rio de Janeiro,0,-22.934488997,-43.1953668594
+Iliovasilema Hotel,GR,Santorini,0,36.4335492633,25.4210329056,Iliovasilema Hotel & Suites,GR,Imerovigli,0,36.4339096419,25.421448648
+Royal Garden Villas & Spa,ES,Tenerife,5,28.1130218506,-16.748292923,Royal Garden Villas,ES,Adeje,5,28.1130222815,-16.748238802
+Eurostars Madrid Tower Hotel,ES,Madrid,5,40.4780311189,-3.6866855621,Eurostars Madrid Tower,ES,Madrid,5,40.4781616939,-3.6873614788
+Hotel Plaza San Sebastian,ES,Antequera,2,37.0162200928,-4.5593314171,Plaza San SebastiÃ¡n,ES,Antequera,2,37.0164317947,-4.5596238971
+Beatriz Playa,ES,Lanzarote,4,28.933144,-13.618525,Hotel Beatriz Playa & Spa,ES,Puerto del Carmen,4,28.9331437115,-13.6185246706
+Golden Age of Athens,GR,Athens,4,37.978237552,23.7552620172,Golden Age Hotel,GR,Athens,4,37.97835454,23.7553328276
+Chromata Up Style Hotel,GR,Santorini,5,36.4243212734,25.4281997681,Chromata,GR,Imerovigli,4,36.4345397611,25.4229560494
+On The Rocks Hotel,GR,Santorini,4,36.431365376,25.4216766357,On The Rocks,GR,Imerovigli,4,36.4319868838,25.4230499268
+La Maltese Hotel,GR,Santorini,5,36.4330188751,25.4221889377,La Maltese,GR,Imerovigli,5,36.4339894861,25.4222774506
+Ilunion Barcelona Hotel,ES,Barcelona,4,41.399177585,2.2019326687,Ilunion Barcelona,ES,Barcelona,4,41.3991222555,2.202065438
+Luxury Apartment Sagrada Familia,ES,Barcelona,3,41.40056,2.172511,Sagrada Familia Apartments,ES,Barcelona,0,41.4022860199,2.1704227477
+La Santa Maria,ES,Cala Millor,3,39.5952148438,3.3810265064,Complejo La Santa MarÃ­a,ES,Cala Millor,3,39.5951936565,3.3811229467
+Thalassa Hotel,GR,Santorini,4,36.383442512,25.4860496521,Thalassa,GR,Kamari,4,36.3829674528,25.4843866825
+Aigialos Luxury Traditional Settlement,GR,Santorini,5,36.4155769348,25.4311847687,Aigialos Niche Residences & Suites,GR,Fira,5,36.4155152465,25.4311394691
+Makarios Hotel,GR,Santorini,3,36.3839797974,25.4830265045,Hotel Makarios,GR,Kamari,3,36.383960755,25.4827880859
+Hotel Apartamentos Isaba,ES,Isaba,3,42.85966,-0.9262553,HG Isaba,ES,Isaba,3,42.8596612374,-0.9262552857
+Hotel Eurostars Rey Fernando II,ES,Zaragoza,4,41.6517181396,-0.9844779968,Eurostars Rey Fernando,ES,Zaragoza,4,41.6514982382,-0.9823013842
+Pantheon Villas Hotel,GR,Santorini,4,36.4495506287,25.4247112274,Pantheon Deluxe Villas,GR,Imerovigli,4,36.4495596825,25.4245680571
+Galaxy Suites & Spa,GR,Santorini,4,36.4331780931,25.4224276543,Galaxy Suites & Villas,GR,Imerovigli,4,36.4331780931,25.4224276543
+Bio Hotel Suites,GR,Crete Island,4,35.3657989502,24.4859046936,Bio Suites Hotel,GR,RÃ©thymno Town,4,35.3657085818,24.4859316945
+Jason Inn Hotel,GR,Athens,3,37.97862975,23.72066055,Jason Inn,GR,Athens,3,37.9785143759,23.7206451595
+Adler Hotel,ES,Madrid,5,40.4254357066,-3.6855053902,Adler,ES,Madrid,5,40.4253724098,-3.6843439937
+TRYP Madrid-Getafe Los Angeles Hotel,ES,Madrid,4,40.2957472558,-3.6908483505,Tryp Madrid-Getafe Los Ãngeles Hotel,ES,Getafe,4,40.2960164778,-3.6909019946
+Radisson Blu es. Hotel Rome,IT,Rome,5,41.8965606689,12.5057001114,Radisson Blu es. Hotel Roma,IT,Rome,5,41.8963406839,12.5061066449
+Residenza Maxima Apartments,IT,Rome,0,41.8691293978,12.4519515038,Residenza Maxima,IT,Rome,0,41.8692991735,12.4518200755
+Hotel Europa Ristorante Zaramella,IT,Padua,4,45.4117279053,11.8779907227,Hotel Europa,IT,Padova,4,45.4110662244,11.8772466481
+Melia Villaitana Hotel,ES,Alicante - Costa Blanca,4,38.5602760315,-0.1463570595,Melia Villaitana,ES,Benidorm,4,38.5589972036,-0.1480150223
+Frontair Congress Aeropuerto Hotel,ES,Sant Boi del Llobregat,4,41.3297271729,2.049959898,Frontair Congress Aeropuerto,ES,Sant Boi del Llobregat,4,41.3296778598,2.0499104261
+Vera Miramar Resort,TR,Bodrum,5,37.0231476946,27.4427211285,Vera Miramar Resort - Ultra All Inclusive,TR,Bodrum City,5,37.0227922122,27.4430215359
+The Level at Melia Villaitana Hotel,ES,Benidorm,5,38.5584640503,-0.1511421204,The Level at MeliÃ¡ Villaitana,ES,Benidorm,5,38.5589930088,-0.1479640603
+Pension Segre,ES,Barcelona,2,41.380027771,2.1798272133,PensiÃ³n Segre,ES,Barcelona,0,41.3800086362,2.1797575057
+Pension 45,ES,Barcelona,1,41.3847846985,2.1678857803,PensiÃ³n 45,ES,Barcelona,0,41.3848376269,2.1680523455
+Volcano View Hotel & Villas,GR,Santorini,4,36.3949194637,25.4378600121,Volcano View by Caldera Collection,GR,Fira,5,36.3941780753,25.4384887218
+Residence La Contessina,IT,Florence,3,43.7777099609,11.2509231567,Hotel Residence La Contessina,IT,Florence,0,43.7776981053,11.2510567904
+AinB Picasso - Corders,ES,Barcelona,0,41.38528,2.17941,AinB Picasso-Corders Apartments,ES,Barcelona,0,41.3852994766,2.1793404222
+AinB Gothic - Jaume I,ES,Barcelona,0,41.3855671265,2.1768379211,AinB Gothic-Jaume I Apartments,ES,Barcelona,0,41.3832588611,2.1778960526
+Paseo de Gracia Apartments,ES,Barcelona,0,41.391867,2.168993,Paseo de GrÃ¡cia Apartments,ES,Barcelona,0,41.3919742969,2.1689964831
+Borne Lofts Apartments,ES,Barcelona,0,41.3846321106,2.1830403805,Borne Lofts,ES,Barcelona,0,41.3846454401,2.1830780804
+Sant Joan de Binissaida Hotel,ES,Menorca,0,39.86095047,4.2974033356,Sant Joan de Binissaida,ES,Es Castell,0,39.8604601379,4.2970329523
+Country Holiday,PL,Mragowo,2,53.829334,21.388834,Country Holiday Hotel,PL,Kosewo,2,53.8293341897,21.3888332248
+Holiday Inn Turin-Corso Francia Hotel,IT,Turin,4,45.0744652,7.6196978,Holiday Inn Turin Corso Francia,IT,Turin,4,45.0740907499,7.6186805964
+Hotel Eurostars Palacio Buenavista,ES,Toledo,5,39.877,-4.0423,Eurostars Palacio Buenavista,ES,Toledo,5,39.8767378035,-4.0433067083
+Villa Tiphareth H & H Marbella (Hotel & House),ES,Marbella,0,36.514244,-4.8582544,Villa Tiphareth Hotel & House,ES,Marbella,0,36.5142430583,-4.8582543433
+Anessis Hotel,GR,Santorini,3,36.4161,25.4368,Anessis Apartments,GR,Fira,0,36.4163440916,25.4365253448
+La City Hotel,ES,Alicante - Costa Blanca,3,38.3448829651,-0.4944695234,La City,ES,Alicante,3,38.3450031421,-0.4945161939
+Hotel Apartaments Vistasol,ES,Majorca,0,39.5106761557,2.5385713577,Hotel Apartamentos Vistasol & Spa,ES,Magaluf,3,39.5108988164,2.536919117
+Barcelo Raval Hotel,ES,Barcelona,4,41.37896667,2.169469444,BarcelÃ³ Raval,ES,Barcelona,4,41.378980203,2.1694913507
+Room Mate Vega Hotel,ES,Salamanca,3,40.9644966125,-5.6628370285,Room Mate Vega,ES,Salamanca,3,40.9644123015,-5.6628412753
+Augusta Lucilla Palace Hotel,IT,Rome,4,41.9001249632,12.4977475405,Augusta Lucilla Palace,IT,Rome,4,41.9000980118,12.4977622926
+Hotel Reveron Plaza,ES,Tenerife,4,28.051943,-16.716707,Labranda Reveron Plaza,ES,Los Cristianos,4,28.0519422379,-16.7167080939
+Apartaments Els Llorers,ES,Lloret De Mar,1.5,41.7075080872,2.8632879257,Apartamentos Els Llorers,ES,Lloret de Mar,0,41.7076969045,2.8635343909
+Clarion Collection Hotel Griso,IT,Lecco,4,45.8492507935,9.3798789978,Clarion Collection Hotel Griso Lecco,IT,Malgrate,4,45.8493039524,9.3812210857
+Albergo Della Posta 9,IT,Fobello,3,45.889757,8.157765,Albergo Della Posta,IT,Fobello,3,45.889757,8.157765
+Sofia Hotel Heraklion,GR,Crete Island,3,35.3361930847,25.1611289978,Sofia Hotel,GR,Heraklio Town,3,35.3361224874,25.160947144
+Best Western Taroba Hotel E Eventos,BR,Foz Do Iguacu,3,-25.5341161528,-54.5881891251,Best Western TarobÃ¡ Hotel,BR,Foz do IguaÃ§u,3,-25.5345106504,-54.5883393288
+Santa Clara Urban Hotel&Spa,ES,Majorca,4,39.5668678284,2.6523346901,Santa Clara Urban Hotel & Spa,ES,Palma de Mallorca,4,39.5669423093,2.6522856206
+Hilton Madrid Airport Hotel,ES,Madrid,4,40.454,-3.587,Hilton Madrid Airport,ES,Madrid,4,40.4525396596,-3.5858345032
+Hilton Garden Inn Bari,IT,Bari,4,41.0944904,16.8620571,Hi Hotel Bari,IT,Bari,4,41.0946325355,16.862321198
+Hotel Torre Del Mar,ES,Ibiza,4,38.8977798696,1.4173811674,Torre del Mar,ES,Playa d'en Bossa,4,38.8980679407,1.4174643159
+Holiday Inn Express Girona,ES,Girona,3,41.966235,2.781988,Hotel B&B Girona,ES,Salt,3,41.9660079164,2.7835965157
+The Flower of Monemvasia Hotel,GR,Monemvasia,3,36.6877837712,23.0365060084,The Flower Of Monemvasia Hotel,GR,MonemvasÃ­a,3,36.687805011,23.036441803
+Divan Bodrum,TR,Bodrum,0,37.1504669189,27.3696899414,Divan Bodrum Palmira,TR,Golturkbuku,0,37.1331472694,27.3762774467
+AinB Las Ramblas - Guardia,ES,Barcelona,0,41.377912,2.173852,AinB Las Ramblas-Guardia Apartments,ES,Barcelona,0,41.3779286083,2.173730582
+Hotel Mar Azul - Adults Only,ES,Canyamel,4,39.719616,3.4575176,Mar Azul Pur Estil Hotel & Spa,ES,Cala Ratjada,4,39.7196159135,3.4575176239
+Club Hotel Ephesus Princess,TR,Selcuk,5,37.92067676,27.27278978,Labranda Ephesus Princess,TR,KusadasÄ±,5,37.9206767571,27.2727897763
+Art By The Spanish Steps Hotel,IT,Rome,4,41.90791,12.48033,Hotel Art By The Spanish Steps,IT,Rome,4,41.9077467453,12.4805787206
+Apartamentos Millor Garden,ES,Majorca,3,39.6105484341,3.3885741234,Aparthotel Millor Garden & Spa,ES,Cala Bona,3,39.6103810585,3.3886519074
+Castillo del Buen Amor Hotel,ES,Salamanca,0,41.1570735682,-5.6702327728,Posada Real Castillo del Buen Amor,ES,Villanueva de CaÃ±edo,0,41.1568473886,-5.6702877581
+InterContinental De La Ville Rome Hotel,IT,Rome,5,41.905704,12.484007,Intercontinental De La Ville Rome,IT,Rome,5,41.9059122507,12.4837222695
+Apartamentos Tabaiba Lanzarote Paradise,ES,Lanzarote,2,28.99867257,-13.50581557,Apartamentos Lanzarote Paradise,ES,Costa Teguise,2,28.9986725707,-13.5058155656
+Hotel Vacanza,PL,Siemianowice Slaskie,3,50.3023414612,19.0200233459,Hotel Diament Vacanza,PL,Siemianowice ÅšlÄ…skie,3,50.3024506235,19.0197694302
+Prado Apartments,ES,Madrid,0,40.4128799438,-3.6965017319,Prado Apartmentos,ES,Madrid,0,40.4129456758,-3.6965587735
+Hotel Levante Club & Spa - Adults Only,ES,Benidorm - Costa Blanca,4,38.54167,-0.10390341,Hotel Levante Club & Spa - Adults Only (+16),ES,Benidorm,4,38.5416706064,-0.1039034128
+Hotel & Golf Resort Il Pelagone,IT,Gavorrano,4,42.9628452238,10.8657574654,Cordial Hotel & Golf Resort Pelagone,IT,Gavorrano,4,42.9638541098,10.8657842875
+Santamarta,ES,Cullera,4,39.17759,-0.24030447,Hotel Santamarta,ES,Cullera,4,39.1775907674,-0.2403044701
+Los Robles,ES,Gandia,3,39.013718,-0.17139047,Hotel Los Robles,ES,GandÃ­a,3,39.0137174024,-0.1713904738
+Corte Dei Greci Hotel,IT,Venice,3,45.4356002808,12.3436002731,Corte Dei Greci,IT,Venice,3,45.4356768844,12.343519181
+Residenza Sant'Anna del Volterraio,IT,Portoferraio,0,42.8106079102,10.3681545258,Residenza Santâ€™Anna Del Volterraio,IT,Portoferraio,0,42.8106205547,10.3664857149
+Casa Campana Hotel,ES,O Grove,1,42.49267299,-8.862093687,Casa CampaÃ±a,ES,O Grove,1,42.49267299,-8.8620936871
+IGH Vega De Triana Hotel,ES,Seville,3,37.3794021606,-6.0289039612,IGH Vega de Triana,ES,Camas,3,37.379362082,-6.0288454592
+Iberostar Playa de Muro Hotel,ES,Majorca,4,39.8073169,3.117177683,Iberostar Playa de Muro,ES,Playa de Muro,4,39.8061076542,3.1173911686
+Hotel Bella Playa Spa,ES,Majorca,4,39.7192693112,3.4567880631,Hotel Bella Playa & Spa,ES,Cala Ratjada,4,39.7190753782,3.4589070082
+B&B Hotel Bicocca,IT,Milan,0,45.502293,9.201374,Hotel Bicocca,IT,Milan,1,45.5022920842,9.201374352
+Hotel Los Patios,ES,El Campillo de Rodalquilar,3,36.8555221558,-2.0204277039,Hotel Los Patios - Parque Natural,ES,Rodalquilar,3,36.8551838102,-2.0199394226
+Hotel Balneario Villa de Olmedo,ES,Olmedo,4,41.2890548706,-4.6805887222,Castilla Termal Balneario de Olmedo,ES,Olmedo,4,41.2886663331,-4.6809750795
+Hotel Exagon Park,ES,Can Picafort,4,39.7566716737,3.1656503677,Exagon Park Club & Spa,ES,Can Picafort,4,39.7565809459,3.1659910083
+Iberostar Pinos Park Hotel,ES,Majorca,4,39.68304097,3.451988344,Iberostar Pinos Park,ES,Font de Sa Cala,4,39.6837581067,3.4515738487
+Iberostar Club Cala Barca,ES,Majorca,4,39.3534622192,3.1987249851,Iberostar Club Cala Barca - All Inclusive,ES,Portopetro,4,39.3532943484,3.1974408028
+AinB Born - Damas,ES,Barcelona,0,41.3835707937,2.1826851368,AinB Born-Dames Apartments,ES,Barcelona,0,41.3837800895,2.1828252822
+Aparthotel Bonanova Suites,ES,Barcelona,3,41.4055270841,2.1361863613,Aparthotel Bonanova,ES,Barcelona,3,41.4054818189,2.1361159533
+Atlas Hotel,ES,Barcelona,3,41.3819656372,2.1733779907,Hotel Atlas,ES,Barcelona,3,41.3819688532,2.1733979881
+Hotel Ristorante Cervo Malpensa,IT,Milan,3,45.6403877069,8.7093257904,Hotel Ristorante Cervo,IT,Case Nuove,3,45.6401281659,8.709128648
+Valentin Playa de Muro Resort,ES,Majorca,3,39.7740097046,3.1390857697,Valentin Blue Bay Resort,ES,Playa de Muro,3,39.7739861288,3.1388416886
+Taksim Riva Hotel,TR,Istanbul,4,41.0392739627,28.9847230911,Riva Hotel Taksim,TR,Istanbul,4,41.0391889932,28.9852568507
+Porto Bello Resort & Spa,TR,Antalya,5,36.8511009216,30.6215457916,Porto Bello Hotel Resort & Spa,TR,Antalya,5,36.8518356954,30.6225496531
+Suites Apartamentos Las Brisas,ES,Santander,0,43.4758644104,-3.7892708778,Apartamentos Las Brisas,ES,Santander,3,43.4757742742,-3.7891861796
+CCR Cappadocia Cave Resort and Spa,TR,Goreme,5,38.632427316,34.8067474365,Ccr Hotels&SpaCappadocia Cave Resort&Spa,TR,Uchisar,0,38.632402173,34.8074769974
+Mim Hotel,TR,Istanbul,4,41.0554187403,28.9977881312,Mim Hotel Istanbul,TR,Istanbul,4,41.0549469369,28.9970183372
+Melia Gorriones Hotel,ES,Fuerteventura,4,28.1373543337,-14.2446718644,Melia Gorriones,ES,Costa Calma,4,28.1371526981,-14.2454695702
+Melia Sierra Nevada Hotel,ES,Sierra Nevada,4,37.0948147,-3.400301729,Melia Sierra Nevada,ES,Sierra Nevada,4,37.0949252998,-3.3986597168
+Melia Sol y Nieve Hotel,ES,Sierra Nevada,4,37.09618024,-3.396830063,Melia Sol y Nieve,ES,Sierra Nevada,4,37.0955307561,-3.3999654651
+Catalonia Port Hotel,ES,Barcelona,4,41.3787648539,2.1787047386,Catalonia Port,ES,Barcelona,4,41.3796584475,2.1795415878
+Dream Hotel Noelia Sur,ES,Tenerife,4,28.059883,-16.72905,Dream Hotel Noelia Sur - Adults Only,ES,Playa de las Americas,4,28.0598835901,-16.7290502787
+Aparthotel Acacia Suites,ES,Barcelona,4,41.3878370757,2.1511423588,Acacia Suite,ES,Barcelona,4,41.3879537908,2.1511282772
+NH Poznan,PL,Poznan,4,52.40687896,16.92079615,NH PoznaÅ„,PL,PoznaÅ„,4,52.4068337875,16.9210159779
+Dedeman Konya Hotel & Convention Center,TR,Konya,5,37.8936004639,32.4754943848,Dedeman Konya Hotel Convention Center,TR,Konya,5,37.8937153314,32.4758541584
+Rodos Park Suites and Spa Hotel,GR,Rodos,5,36.443088,28.220194,Rodos Park Suites & Spa,GR,Rhodes Town,5,36.4451733288,28.2201567292
+Hotel Diamante Alessandria,IT,Alessandria,4,44.8859329224,8.6976528168,Hotel Diamante,IT,Spinetta,4,44.8858418556,8.6976957321
+IBEROSTAR Playa de Palma,ES,Majorca,5,39.52356218,2.738089925,Iberostar Playa de Palma,ES,Playa de Palma,5,39.5235024453,2.7384021878
+IBEROSTAR BahÃ­a de Palma,ES,Majorca,4,39.52434721,2.737233118,Iberostar BahÃ­a de Palma - Adults Only,ES,Playa de Palma,4,39.5244412863,2.7372989059
+Iberostar Suites Hotel Jardin del Sol,ES,Majorca,4,39.5199274789,2.468836929,Iberostar Suites Hotel JardÃ­n del Sol - Adults Only,ES,Santa Ponsa,4,39.5197094811,2.4691396952
+Iberostar Royal Andalus Resort,ES,Chiclana de la Frontera,4,36.34930861,-6.165851355,Iberostar Royal Andalus,ES,Novo Sancti Petri,4,36.3479692073,-6.1644351482
+Iberostar Isla Canela Resort,ES,Isla Canela,4,37.1819115935,-7.3464846611,Iberostar Isla Canela,ES,Isla Canela,4,37.1825697779,-7.3471015692
+Hotel Iberostar Anthelia,ES,Tenerife,5,28.0895118713,-16.7391738892,Iberostar Hotel Anthelia,ES,Adeje,5,28.0900317143,-16.7379391193
+Iberostar Torviscas Playa Resort,ES,Tenerife,4,28.08425923,-16.73409725,Iberostar Torviscas Playa,ES,Adeje,4,28.0843998478,-16.7337870598
+Sheraton Cesme Hotel Resort and Spa,TR,Izmir,5,38.306454,26.368577,Sheraton Cesme Hotel Resort & Spa,TR,Cesme,5,38.3061071437,26.3684427738
+Iberostar Las Dalias Resort,ES,Tenerife,4,28.0764674071,-16.7314696312,Iberostar Las Dalias - All Inclusive,ES,Playa de las Americas,4,28.0767797936,-16.7307400703
+Iberostar Fuerteventura Palace,ES,Fuerteventura,4,28.0561122894,-14.3206357956,Iberostar Palace Fuerteventura,ES,Morro del Jable,4,28.0566645135,-14.3194314837
+Iberostar Playa Gaviotas Resort,ES,Fuerteventura,4,28.0563118294,-14.3173742294,Iberostar Playa Gaviotas,ES,Morro del Jable,4,28.0570645364,-14.3188869953
+Iberostar Gaviotas Park Resort,ES,Fuerteventura,4,28.0567473586,-14.3197238445,Iberostar Gaviotas Park,ES,Morro del Jable,4,28.0568633416,-14.3193697929
+Iberostar Costa Canaria,ES,Gran Canaria,4,27.7708320618,-15.541176796,Hotel Costa Canaria - Adults Only,ES,San Agustin,4,27.771613655,-15.5415920913
+Caserio De Lobones Hotel,ES,Segovia,0,40.97000566,-4.19722259,Caserio de Lobones,ES,Valverde del Majano,0,40.9700056616,-4.1972225905
+Grand Hotel RzeszÃ³w,PL,Rzeszow,4,50.036636,22.001675,Grand Hotel Boutique,PL,RzeszÃ³w,4,50.0366369457,22.0016750693
+Hotel Princesa Galiana,ES,Toledo,3,39.8621635437,-4.0128688812,Princesa Galiana,ES,Toledo,3,39.8621211226,-4.0126678348
+El Vino Hotel Suites,TR,Bodrum,0,37.0416641235,27.436788559,El Vino Hotel & Suites,TR,Bodrum City,0,37.0396393909,27.4393951893
+Coliseum Beach Resort,BR,Beberibe,4,-4.1719155,-38.091263,Coliseum Beach Resort All Inclusive,BR,Beberibe,4,-4.1719153107,-38.0912639201
+Hotel Atlantis,ES,Barcelona,3,41.3856798209,2.1664953232,Atlantis by Atbcn,ES,Barcelona,3,41.385726106,2.1663665772
+ABAC Restaurant Hotel,ES,Barcelona,5,41.4104356505,2.1366047859,ABaC Restaurant Hotel Barcelona GL Monumento,ES,Barcelona,5,41.4107233132,2.1364592761
+Hotel Georgia,GR,Crete Island,3,35.3362664621,25.0886964798,Georgia Hotel,GR,Amoudara Herakliou,3,35.3359014916,25.0886106491
+Equity Point Centric Hostel,ES,Barcelona,0,41.3911590576,2.1659440994,Equity Point Centric,ES,Barcelona,0,41.3910376096,2.1657429636
+Zank By Toque Hotel,BR,Salvador,5,-13.0097793,-38.49548757,Zank by Toque Hotel,BR,Salvador,5,-13.0097792959,-38.4954875708
+Goldcity Tourism Complex,TR,Alanya,5,36.478058,32.136276,Goldcity Hotel,TR,Kargicak,5,36.4780595438,32.1362757683
+Hotel Venta Juanilla,ES,Segovia,4,41.1796875857,-3.5654067993,Venta Juanilla,ES,Santo TomÃ© del Puerto,4,41.1922148137,-3.5843700171
+Hotel Diament Ustron,PL,Ustron,3,49.71851403,18.8267040253,Hotel Diament UstroÅ„,PL,UstroÅ„,3,49.7185365742,18.8267979026
+Blue Sea Calas Marina Hotel,ES,Alicante - Costa Blanca,3,38.531797,-0.162625,Blue Sea Hotel Calas Marina,ES,Benidorm,3,38.5316838914,-0.1625740528
+Grand Hotel Des Alpes,IT,San Martino di Castrozza,4,46.26329433,11.8027389,Hotel Des Alpes,IT,San Martino di Castrozza,4,46.2632943253,11.802738905
+Los Telares,ES,La Gomera,0,28.1516127317,-17.1979272366,Apartamentos Los Telares,ES,Hermigua,0,28.1515973598,-17.1980090439
+Hotel Spectra,TR,Istanbul,3.5,41.0053058547,28.9741601646,Hotel Spectra Sultanahmet,TR,Istanbul,0,41.0053077695,28.9741270244
+Rusticae Casa de los Azulejos,ES,Cordoba,2,37.88388275,-4.775927961,Hotel Casa de los Azulejos,ES,CÃ³rdoba,2,37.8838827466,-4.7759279609
+Hotel Costa Portals,ES,Portals Nous,3,39.536407467,2.5791168184,Hotel RD Costa Portals,ES,Portals Nous,3,39.5358321128,2.5761844218
+Hotel Alcala Plaza,ES,Alcala de Henares,3,40.500504,-3.335381,AlcalÃ¡ Plaza,ES,AlcalÃ¡ de Henares,3,40.5005311448,-3.3353966475
+Eurostars Palace Hotel,ES,Cordoba,5,37.8812555625,-4.7858333588,Eurostars Palace,ES,CÃ³rdoba,5,37.8810904342,-4.7855222225
+Rose Garden Palace Hotel,IT,Rome,4,41.907928,12.491965,Rose Garden Palace,IT,Rome,4,41.9080212162,12.4919392169
+Petit Hotel Rural Son Jorda,ES,Majorca,4,39.6225686617,2.9372549057,Petit Hotel Rural Son JordÃ¡,ES,Sencelles,4,39.6224692876,2.9369263351
+B4 Padova Hotel,IT,Padua,4,45.41562509,11.92016823,Hotel SB Padova,IT,Padova,4,45.4157938894,11.9195491076
+Patara Prince Hotel & Resort,TR,Kalkan,0,36.255091,29.416523,Patara Prince Hotel & Resort - Special Category,TR,Kalkan,0,36.2542536055,29.4176799059
+Elma Park Terme Hotel - Centro Benessere,IT,Casamicciola Terme,4,40.7472488347,13.9115720987,Elma Park Terme - Centro Benessere,IT,Ischia,4,40.7471512971,13.9117055386
+Hotel Eden Roc,IT,Positano,4,40.62802448,14.49012995,Hotel Eden Roc Suites,IT,Positano,4,40.6280244768,14.4901299477
+Hotel Royal Flush,IT,Narzole,3,6.584260765,7.884321213,Hotel Villa San Giulio,IT,Narzole,3,44.6073348774,7.8843212128
+Arden City Hotel,TR,Istanbul,0,41.0099345056,28.9764297009,Arden City Hotel-Special Category,TR,Istanbul,0,41.0099549985,28.9764136076
+Gran Estanplaza SÃ£o Paulo,BR,Sao Paulo,5,-23.61004,-46.69568,Gran Estanplaza Berrini,BR,Sao Paulo,5,-23.6100412281,-46.6956804693
+1 Via Dei Valeri B&B,IT,Rome,0,41.883228302,12.4995298386,Hotel Valeri,IT,Rome,3,41.8831493552,12.499139607
+Aparthotel Sa Clau,ES,Ibiza,1,38.9795284138,1.3033819199,Apartamentos Sa Clau,ES,San Antonio,0,38.9798641094,1.3035321236
+Margutta 54 Luxury Suites Hotel,IT,Rome,0,41.9099185208,12.4780100635,Margutta 54 Luxury Suites,IT,Rome,0,41.907898453,12.4803453684
+Barcelona Pere Tarres Youth Hostel,ES,Barcelona,0,41.3884808,2.1335651,Alberg Pere TarrÃ©s,ES,Barcelona,0,41.3881630725,2.1336724609
+Salles Hotel Aeroport Girona,ES,Girona,4,41.8942184448,2.7760000229,Salles Hotel Aeroport de Girona,ES,Riudellots de la Selva,4,41.8943890621,2.776440382
+Natali Hotel,ES,Torremolinos,3,36.6283226013,-4.4991159439,Hotel Natali,ES,Torremolinos,3,36.6281769799,-4.4991856813
+Privee Santorini Hotel,GR,Santorini,2,36.3525472608,25.4548233747,Privee Santorini,GR,Perissa,0,36.3524798623,25.4547590017
+Can Verdera Hotel,ES,Fornalutx,4,39.7834930008,2.737698555,Ca'n Verdera,ES,Fornalutx,4,39.7823593361,2.7410942316
+Ankara Hilton SA hotel,TR,Ankara,5,39.9018024219,32.8643989563,Ankara HiltonSA,TR,Ankara,5,39.9019135345,32.8637230396
+Anastasia Studios Archangelos,GR,Rhodes,0,36.20567976,28.13929349,Anastasia Studios,GR,Archangelos,0,36.2056797569,28.1392934918
+Dimitra Apartments 1,GR,Crete Island,0,35.209843,25.712093,Dimitra Apartments,GR,Ãgios NikÃ³laos,0,35.2098421771,25.7120928168
+Antique Roman Palace,TR,Alanya,4,36.5317771766,32.040303438,Antique Roman Palace - All Inclusive,TR,Alanya,4,36.5321140311,32.0402097702
+Hotel Casa del Trigo,ES,Santa Fe,4,37.1902367759,-3.7151920795,Casa del Trigo,ES,Santa Fe,4,37.1904183983,-3.7153556943
+Hotel Next To,ES,Barcelona,3,41.3961105347,2.1610488892,Next To,ES,Barcelona,3,41.3962189008,2.1613515168
+Yigitalp Istanbul,TR,Istanbul,4,41.0113334656,28.9559059143,Hotel Yigitalp Istanbul,TR,Istanbul,4,41.011136994,28.9559644461
+W Istanbul,TR,Istanbul,5,41.042203,29.00271,W Istanbul - Special Class,TR,Istanbul,5,41.0421648837,29.0027099848
+Hotel Mon - Mon Sant Benet,ES,Sant Fruitos De Bages,4,41.7437782288,1.9001841545,Hotel MÃ³n Sant Benet,ES,Sant Fruitos de Bages,4,41.7448847262,1.9009083509
+Fergus Bahia Palma Nova,ES,Majorca,3,39.52409,2.5391526,FERGUS Style Palmanova,ES,Palmanova,4,39.5240916361,2.5391527265
+Le Nereidi Hotel  Residence,IT,La Maddalena,3,41.2135746064,9.3916261196,Le Nereidi Hotel Residence,IT,La Maddalena,3,41.2134547542,9.3919935823
+Holiday Inn Express Malaga Airport,ES,Malaga,3,36.6728248868,-4.4789886475,Holiday Inn Express MÃ¡laga Airport,ES,MÃ¡laga,3,36.6731174617,-4.4785031676
+MCC Mazurkas Conference Centre Hotel,PL,Warsaw,4,52.2079432887,20.7991790771,Hotel Mazurkas,PL,OÅ¼arÃ³w Mazowiecki,4,52.2098740487,20.8004611731
+Citytrip Ramblas Apartments,ES,Barcelona,0,41.3783493042,2.1721639633,Citytrip Ramblas,ES,Barcelona,0,41.3781218212,2.1720139682
+Hotel El Mirador- Optimal Hotels Selection,ES,Huesca,1,42.5998824804,-0.1267827451,Hotel El Mirador,ES,Broto,1,42.5988400469,-0.1258385181
+Bella Santorini Studios,GR,Santorini,4,36.3417342225,25.4525629431,Bella Santorini,GR,Perivolos,4,36.342426,25.45292
+La Plage Noire Hotel Resort and Spa,IT,Sorso,4,40.8438772854,8.596817136,La Plage Noire Resort,IT,Sorso,0,40.8418953113,8.5994332672
+Rusticae Hosteria Camino,ES,Luyego de Somoza,3,42.3748259168,-6.2393760681,HosterÃ­a Camino,ES,Luyego de Somoza,0,42.37479025,-6.2394297123
+Hotel La Nina,ES,Cala Millor,3,39.5992660522,3.3824989796,Hotel Biniamar,ES,Cala Millor,3,39.5977709343,3.3833169937
+Luabay La Cala Hotel,ES,Majorca,4,39.5533692504,2.6052296162,Be Live Adults Only La Cala,ES,Palma de Mallorca,4,39.5527529633,2.6057231426
+Apartamentos Deya,ES,Majorca,3,39.51939498,2.481885552,Hotel Apartments Deya,ES,Santa Ponsa,3,39.5193949816,2.4818855524
+Hotel Silken Gran Teatro,ES,Burgos,4,42.3408584595,-3.6973176003,Silken Gran Teatro,ES,Burgos,4,42.3410721442,-3.6970670521
+Hilton Sorrento Palace Hotel,IT,Sorrento,4,40.6206,14.372,Hilton Sorrento Palace,IT,Sorrento,4,40.621102839,14.3725204468
+Conchigli Azzurra Resort & Wellness Spa,IT,Porto Cesareo,4,40.2695121765,17.8837947845,Conchiglia Azzurra Hotel & Spa,IT,Porto Cesareo,4,40.2695719487,17.8838539124
+Barcelo Asia Gardens Hotel,ES,Benidorm,5,38.5532341003,-0.171790123,BarcelÃ³ Asia Gardens & Thai Spa,ES,Finestrat,5,38.5532018586,-0.1716600358
+chic&basic Ramblas,ES,Barcelona,3,41.3768348694,2.174790144,Chic & Basic Ramblas,ES,Barcelona,3,41.3767834073,2.1748698503
+Adamar Hotel,TR,Istanbul,4,41.0095214844,28.9764194489,Adamar Hotel-Special Category,TR,Istanbul,0,41.0096271124,28.9763706923
+Semiramis hotel,GR,Athens,5,38.0744552612,23.8212375641,Semiramis,GR,Athens,5,38.0744426383,23.8213312626
+Twentyone Hotel,GR,Athens,4,38.0739173889,23.8190612793,Twentyone,GR,Athens,3,38.0737606329,23.8186571002
+Hotel Planet,IT,Arezzo,4,43.3764811541,11.8695259094,Planet,IT,Rigutino,4,43.3790428501,11.8672889471
+RF San Borondon Hotel,ES,Tenerife,3,28.4147853851,-16.5555763245,RF San Borondon,ES,Puerto de la Cruz,3,28.4149205459,-16.5555596352
+Scott House Hotel,IT,Rome,3,41.898859236,12.5006389618,Scott House,IT,Rome,3,41.8990698596,12.500936687
+Riva Boutique Hotel,TR,Istanbul,4,41.0540974392,28.9856672287,Riva Hotel Nisantasi,TR,Istanbul,0,41.0522244605,28.9907902479
+Elysium Resort and Spa,GR,Rhodes,5,36.372601803,28.2249712944,Elysium Resort & Spa,GR,Faliraki,5,36.3728177681,28.2247084379
+Parador de Mazagon,ES,Huelva,4,37.1128174,-6.7698633,Parador de MazagÃ³n,ES,MazagÃ³n,4,37.1129628269,-6.7694664002
+Champolucapartment,IT,Champoluc,2,45.83111,7.725745,Champoluc Apartment,IT,Champoluc,2,45.831109881,7.7257451415
+Parador de la Palma,ES,Brena Alta,4,28.651127,-17.774495,Parador de La Palma,ES,BreÃ±a Baja,4,28.6512986063,-17.7751171589
+Blue Sea Hotel,GR,Athens,2,37.9110234165,23.7170362473,Blue Sea Hotel Alimos,GR,Athens,2,37.9120476364,23.7152338028
+Parador de Leon,ES,Leon,5,42.5982844,-5.572758,Parador de LeÃ³n,ES,LeÃ³n,5,42.601706814,-5.58206905
+Parador de Cangas de Onis,ES,Cangas,4,43.3669675,-5.1510668,Parador de Cangas de OnÃ­s,ES,Villanueva de Cangas de OnÃ­s,4,43.3663892809,-5.150667429
+Parador de Merida,ES,Badajoz,4,38.9191941,-6.3453907,Parador de MÃ©rida,ES,Merida,4,38.9184846126,-6.3457082212
+Parador de la Granja,ES,Sonsoto,4,40.9019,-4.00715,Parador de La Granja,ES,La Granja de San Ildefonso,4,40.9012930361,-4.0078961849
+Parador de Javea,ES,Alicante - Costa Blanca,4,38.7754559279,0.1912172555,Parador de JÃ¡vea,ES,JÃ¡vea,4,38.7758743491,0.1898755878
+Parador de Gijon,ES,Gijon,4,43.5361205228,-5.6399130821,Parador de GijÃ³n,ES,GijÃ³n,4,43.5357413555,-5.6402134895
+Parador de Cadiz,ES,Cadiz,4,36.53385,-6.3059,Parador de CÃ¡diz,ES,CÃ¡diz,4,36.5343640455,-6.3054683805
+Parador de Jaen,ES,Jaen,4,37.767786,-3.8012345,Parador de JaÃ©n,ES,JaÃ©n,4,37.7679202609,-3.8020151854
+Parador de Arties,ES,Pirineo Catalan,4,42.7006103216,0.871797055,Parador de ArtÃ­es,ES,Arties,4,42.7006103216,0.871822536
+Parador de Sos del Rey Catolico,ES,Javier,4,42.4997559889,-1.2153625488,Parador de Sos del Rey CatÃ³lico,ES,Sos del Rey CatÃ³lico,4,42.4997806685,-1.2154644728
+Parador de Verin,ES,Ourense,3,41.9468156,-7.4491918,Parador de VerÃ­n,ES,VerÃ­n,3,41.9439268119,-7.4467375875
+Parador de Villafranca,ES,Villafranca Del Bierzo,4,42.6031172,-6.8129392,Parador de Villafranca del Bierzo,ES,Villafranca del Bierzo,4,42.6036435842,-6.8132456595
+Parador de Avila,ES,Avila,4,40.6583505346,-4.702136904,Parador de Ãvila,ES,Avila,4,40.657950265,-4.7019392252
+Hotel Husa Puerta de Zaragoza,ES,Zaragoza,4,41.6601042823,-0.9137535095,Eurostars Zaragoza,ES,Zaragoza,4,41.6593267715,-0.912348032
+Parador de Fuente De,ES,Camaleno,3,43.1439320104,-4.8129215272,Parador de Fuente DÃ©,ES,Fuente De,3,43.1446634696,-4.8118561506
+Corvetto Residence Porto di Mare,IT,Milan,0,45.434961,9.226692,Corvetto Residence Porto Di Mare,IT,Milan,4,45.43497748,9.2265683413
+Devero Hotel & SPA,IT,Cavenago di Brianza,4,45.580161,9.416622,Devero Hotel,IT,Cavenago di Brianza,4,45.5800383477,9.4166135788
+Andreotti Hotel,IT,Rome,3,41.90518363,12.50239849,Hotel Andreotti,IT,Rome,3,41.9054042121,12.5021530688
+Parador de Las Canadas del Teide,ES,Santa Cruz,2,28.22447088,-16.6268450394,Parador de Las CaÃ±adas del Teide,ES,La Orotava,2,28.2247296609,-16.6272711754
+Parador De La Seu D Urgell,ES,La Seu d'Urgell,3,42.3586354,1.4620586,Parador De La Seu D'urgell,ES,La Seu d'Urgell,3,42.3588213968,1.4620774984
+Parador de Malaga Golf,ES,Malaga,4,36.6511971,-4.473989,Parador de MÃ¡laga Golf,ES,MÃ¡laga,4,36.6515241695,-4.4738334417
+Parador de la Gomera,ES,San Sebastian de la Gomera,4,28.0911675,-17.1078701,Parador de La Gomera,ES,San SebastiÃ¡n de la Gomera,4,28.0910681349,-17.1081724763
+Parador de Benicarlo,ES,BenicarlÃ³,4,40.411816323,0.4279860109,Parador de BenicarlÃ³,ES,BenicarlÃ³,4,40.4118091752,0.427981317
+Parador de Chinchon,ES,Chinchon,4,40.1386112,-3.4210912,Parador de ChinchÃ³n,ES,ChinchÃ³n,4,40.1394989656,-3.4242045879
+Felipe II,ES,Ayna,2,38.555458,-2.0751662,Hotel Felipe II,ES,Ayna,2,38.5554567082,-2.0751661062
+Gran Camp de Mar Hotel,ES,Peguera,4,39.537525,2.4207902,Olimarotel Gran Camp de Mar,ES,Camp de Mar,4,39.5375260383,2.4207901955
+Parador Caceres,ES,Caceres,4,39.4727351,-6.3714497,Parador de Caceres,ES,CÃ¡ceres,4,39.4724145928,-6.3716146722
+Parador de Santiago de Compostela,ES,Santiago De Compostela,5,42.8809195517,-8.5455822945,Parador de Santiago - Hostal Reis Catolicos,ES,Santiago de Compostela,5,42.8809368673,-8.5458531976
+Ca del Lupo Hotel,IT,Montelupo Albese,4,44.6172904968,8.0494604111,Ca' Del Lupo,IT,Montelupo Albese,4,44.616956743,8.0514925718
+Asterias Village Resort Hotel,GR,Crete Island,4,35.3075627556,25.3871126175,Asterias Village,GR,Hersonissos,0,35.3077950951,25.3883260489
+Acropolis Select Hotel,GR,Athens,3,37.9657592773,23.7274112701,Acropolis Select,GR,Athens,3,37.9658414412,23.7271857262
+Hotel Zerbinetta,ES,Dilar,3,37.0681915283,-3.5923576355,Zerbinetta,ES,DÃ­lar,3,37.0690573158,-3.5941198468
+Bungalows Maspalomas Oasis Club,ES,Gran Canaria,0,27.750483,-15.600596,Bungalows Maspalomas Oasis Club - All Inclusive.,ES,Maspalomas,0,27.7504825542,-15.6005966663
+Mercure Warszawa Grand Hotel,PL,Warsaw,4,52.2275102647,21.0182619095,Mercure Warszawa Grand,PL,Warsaw,4,52.2275513378,21.0183557868
+Ad Hoc Domus Guest House,IT,Rome,0,41.8889880996,12.5073981285,Ad Hoc Domus,IT,Rome,0,41.8890150556,12.5072345138
+Barcelona Urbany Hostel,ES,Barcelona,0,41.4064254761,2.1865916252,Urbany Hostel Barcelona,ES,Barcelona,0,41.4070781507,2.1864724159
+Gloria Palace Royal,ES,Gran Canaria,4,27.792185,-15.721634,Gloria Palace Royal Hotel & Spa,ES,Puerto Rico,4,27.7921854184,-15.7216340303
+Hotel Nautic & Spa,ES,Majorca,4,39.5351982117,2.7153346539,Nautic Hotel & Spa,ES,Can Pastilla,4,39.5350106474,2.7152715082
+Hotel Misiana,ES,Tarifa,1,36.0130157471,-5.6030273438,Misiana,ES,Tarifa,1,36.0130377148,-5.6029871106
+Hotel Cason del Tormes,ES,Madrid,3,40.4223340908,-3.711528182,CasÃ³n del Tormes,ES,Madrid,3,40.4223055038,-3.7116140127
+Hotel Premiere Classe Zaragoza,ES,Calatorao,2,41.5167007446,-1.2880589962,280 Hotel,ES,Calatorao,2,41.5164223734,-1.2891501188
+Mariant Hotel,ES,Majorca,3,39.5692825317,3.3727116585,Hotel Mariant,ES,S'Illot,3,39.5693701175,3.3727866411
+Roman Holidays Guest House,IT,Rome,0,41.911148106,12.4542582035,Roman Holidays,IT,Rome,0,41.9112423816,12.4543359876
+Arca Suite Hotel Maltepe,TR,Istanbul,0,40.9382204434,29.138917923,Arca Suite Hotel,TR,Istanbul,0,40.9299591704,29.1501563787
+Flann O Brien Rooms,IT,Rome,0,41.9009284973,12.4938802719,Flann O'Brien Rooms,IT,Rome,0,41.9009644418,12.4937590957
+Parador de Mojacar,ES,Mojacar,4,37.13199,-1.8315,Parador de MojÃ¡car,ES,MojÃ¡car,4,37.1323154465,-1.830572784
+Hotel Reino de Granada,ES,Granada,3,37.170676,-3.604901,Reino de Granada,ES,Granada,3,37.1705912069,-3.6048551446
+Paradise Park Resort and Spa,ES,Tenerife,4,28.0538217,-16.70584515,Paradise Park Fun Lifestyle Hotel,ES,Los Cristianos,4,28.0538217047,-16.7058451474
+Arabella Hotel and Spa,ZA,Hermanus,5,-34.3172,19.1347,Arabella Hotel & Spa,ZA,Kleinmond,5,-34.3174744694,19.1342514753
+Petite Provence Boutique Bed and Breakfast,ZA,Ballito,4,-29.5060895797,31.2325403094,Petite Provence B&B,ZA,Ballito,4,-29.5059145044,31.2324491143
+Camps Bay Retreat and Spa Hotel,ZA,Cape Town,0,-33.9466197339,18.3806401022,Camps Bay Retreat Hotel,ZA,Cape Town,0,-33.9463437985,18.380612433
+De Waterkant Village Apartments,ZA,Cape Town,3,-33.9168322216,18.4168946743,De Waterkant Village,ZA,Cape Town,3,-33.9161731596,18.4170270258
+De Waterkant House Guesthouse,ZA,Cape Town,3,-33.9160129155,18.4160373454,De Waterkant House,ZA,Cape Town,3,-33.915810561,18.4161624312
+The Charles Guesthouse,ZA,Cape Town,3,-33.9162156654,18.4170851111,The Charles Cafe & Rooms,ZA,Cape Town,3,-33.916304699,18.4169898927
+12 Apostles Hotel and Spa,ZA,Cape Town,5,-33.9833740153,18.3588382602,Twelve Apostles Hotel & Spa,ZA,Cape Town,5,-33.9836364571,18.3584681153
+The Marine-Hermanus Hotel,ZA,Hermanus,5,-34.4178143342,19.2446887493,The Marine Hermanus,ZA,Hermanus,5,-34.4180289615,19.2447531223
+Majorca Self Catering Apartments,ZA,Cape Town,3,-33.8920752758,18.5091757402,Majorca - The Island Club,ZA,Cape Town,4,-33.8928228527,18.5079208016
+AHA Bantry Bay Suite Hotel,ZA,Cape Town,4,-33.9228061315,18.3799177408,Three Cities Bantry Bay Suite Hotel,ZA,Cape Town,0,-33.9228239368,18.3797433972
+The Capetonian Hotel,ZA,Cape Town,4,-33.9176157091,18.4266364574,Capetonian Hotel,ZA,Cape Town,4,-33.9176713542,18.4265828133
+The Spier Hotel,ZA,Stellenbosch,4,-33.9733583607,18.7824261189,Spier Hotel,ZA,Stellenbosch,4,-33.9731425985,18.7822759151
+AHA Adderley Hotel,ZA,Cape Town,4,-33.9244264044,18.4208858013,Adderley Hotel,ZA,Cape Town,4,-33.9243651997,18.4209300584
+AHA Casa do Sol Hotel and Resort,ZA,Hazyview,4,-25.0422152279,31.0971450806,Casa do Sol Hotel & Resort,ZA,Hazyview,4,-25.0478747328,31.0810290277
+AHA Simons Town Quayside Hotel,ZA,Cape Town,4,-34.1930532878,18.4326419763,Simon's Town Quayside Hotel,ZA,SimonÊ¼s Town,4,-34.1930878094,18.4329369664
+Wilderness Beach and Spa Hotel,ZA,Wilderness,3,-33.998792213,22.6144552231,Wilderness Beach Hotel,ZA,Wilderness,3,-33.9985645074,22.6144766808
+Oudtshoorn Hotel,ZA,Oudtshoorn,3,-33.5841284998,22.2044339776,Oudtshoorn Inn Hotel,ZA,Oudtshoorn,3,-33.5839614237,22.204384256
+Kingslyn Boutique Guesthouse,ZA,Cape Town,4,-33.9088935852,18.4021968842,Kingslyn Boutique Guest House,ZA,Cape Town,4,-33.9088567108,18.4021659941
+Misty Hills Country Hotel,ZA,Johannesburg,4,-26.0278233017,27.8551134467,Misty Hills Country Hotel Conference Centre and Spa,ZA,Muldersdrift,4,-26.0270568612,27.8557571769
+Honeyguide Tented Safari Camps Home,ZA,Kruger National Park,4,-24.5482543135,31.4276659102,Honeyguide Tented Safari Camps,ZA,Manyeleti Game Reserve,4,-24.5482543135,31.4276659102
+Onze Rust Guesthouse,ZA,Stellenbosch,4,-33.9727290152,18.7493362511,Onze Rust Hostel,ZA,Stellenbosch,4,-33.9750733166,18.7539947033
+Villa Atlantica Boutique Hotel,ZA,Cape Town,4,-33.9629032766,18.3769257367,Villa Atlantica Boutique Guesthouse,ZA,Cape Town,4,-33.9629388706,18.3769136667
+Lanzerac Hotel and Spa,ZA,Stellenbosch,5,-33.9333343506,18.8500003815,Lanzerac Hotel & Spa,ZA,Stellenbosch,5,-33.9379838539,18.8932228088
+The Grand Daddy Hotel,ZA,Cape Town,4,-33.9210700906,18.4205639362,The Grand Daddy,ZA,Cape Town,4,-33.9210990249,18.4205290675
+President Hotel,ZA,Cape Town,4,-33.9231355301,18.379611969,President Hotel Cape Town,ZA,Cape Town,4,-33.9231288531,18.3793625236
+Hide Away Guest House,ZA,Knysna,4,-34.0358924866,23.0327529907,Hide-Away Guest House,ZA,Knysna,4,-34.0359569533,23.0323085189
+AHA Alpine Heath Resort,ZA,Drakensberg,4,-28.6381424861,29.0678286552,Three Cities Alpine Heath Resort,ZA,Bonjaneni,4,-28.613669928,29.0005092323
+AHA The Riverside Hotel,ZA,Durban,4,-29.8066886446,31.03294909,Three Cities Riverside Hotel and Spa,ZA,Durban,4,-29.8067235552,31.0329584777
+Lagoon Beach Hotel and Spa,ZA,Cape Town,4,-33.8924692911,18.4827697277,Lagoon Beach Hotel & Apartments,ZA,Cape Town,4,-33.8923935914,18.48274827
+Royal Hotel,ZA,Durban,4,-29.8599526647,31.0256373882,The Royal Hotel,ZA,Durban,4,-29.8592926225,31.0259267315
+AHA Royal Palm Gateway Hotel,ZA,Durban,4,-29.7251776485,31.0678258538,Three Cities Royal Palm Gateway Hotel,ZA,Durban,4,-29.7248829958,31.0680189729
+Le Franschhoek Hotel and Spa,ZA,Franschhoek,4,-33.9253522608,19.1243219376,Le Franschhoek Hotel & Spa,ZA,Franschhoek,4,-33.9253522608,19.1243219376
+The Cape Milner Hotel,ZA,Cape Town,4,-33.9276535045,18.4092289209,The Cape Milner,ZA,Cape Town,4,-33.927772571,18.4090867639
+La Rose Bed and Breakfast,ZA,Cape Town,3,-33.9194641113,18.4169769287,La Rose B&B,ZA,Cape Town,0,-33.9193406916,18.4170904756
+Olafs Guest House,ZA,Cape Town,4,-33.9113197327,18.3920688629,Olaf's Guest House,ZA,Cape Town,4,-33.9113420428,18.3921231329
+Cascade Country Manor Hotel,ZA,Paarl,4,-33.7128545166,19.0434372425,Cascade Manor,ZA,Paarl,4,-33.7132025739,19.0425601602
+Bishops Inn Guesthouse,ZA,Port Elizabeth,3,-33.975066,25.640462,Bishops Inn Guest House,ZA,Port Elizabeth,3,-33.9746974083,25.6407165527
+Kwafubesi Tented Safari Camp Hotel,ZA,Mabula,4,-24.73078,27.91351,Kwafubesi Tented Safari Camp,ZA,Mabula,0,-24.7434412949,27.9122818307
+The Hideaway Bed and Breakfast,ZA,Swellendam,5,-34.019203186,20.4504108429,The Hideaway,ZA,Swellendam,5,-34.0188963809,20.4505348206
+4 Heaven Guest House,ZA,Cape Town,4,-34.055366,18.844835,4-Heaven Guest House,ZA,Somerset West,4,-34.0554238834,18.8449081779
+Lourens River Guesthouse,ZA,Cape Town,0,-34.090456292,18.8433337212,Lourens River Guesthouse B&B,ZA,Somerset West,0,-34.0905873475,18.8428133726
+Mooiplaas Guest House,ZA,Oudtshoorn,4,-33.6577767736,22.1455836296,Mooiplaas Guesthouse,ZA,Oudtshoorn,4,-33.65845324,22.146128118
+Summerwood Guesthouse,ZA,Stellenbosch,4,-33.9350798215,18.8779073954,Summerwood Guest House,ZA,Stellenbosch,4,-33.9352511733,18.877966404
+Mercure Johannesburg Midrand Hotel,ZA,Johannesburg,3,-26.0008960676,28.1260192394,Mercure Johannesburg Midrand,ZA,Midrand,3,-26.0015614286,28.1253433228
+Leriba Hotel And Spa,ZA,Pretoria,4,-25.8456687927,28.1784934998,Leriba Hotel and Spa,ZA,Centurion,4,-25.8455302095,28.1781962514
+Alkantmooi Estate Self-Catering,ZA,Plettenberg Bay,4,-34.001622,23.401244,Alkantmooi Private Nature Reserve - Keursee,ZA,Plettenberg Bay,4,-34.0021810393,23.4024292231
+Hajos Lodge and Tours,ZA,Cape Town,4,-33.863436,18.500904,Hajos Lodge,ZA,Cape Town,4,-33.8634602261,18.5009551048
+VIlla Afrikana Guest Suites,ZA,Knysna,5,-34.0336112976,23.0319137573,Villa Afrikana Guest Suites,ZA,Knysna,5,-34.033759998,23.0315923691
+Beachcomber Bay Guesthouse,ZA,Margate,3,-30.871582822,30.3643226624,Beachcomber Bay Guest House,ZA,Margate,3,-30.8713295805,30.3643870354
+The View Boutique Hotel and Spa,ZA,Durban,5,-30.0682954539,30.8684974909,The View Boutique Hotel & Spa,ZA,Amanzimtoti,5,-30.068275491,30.8686195314
+Sierra Square Hotel,ZA,Johannesburg,3,-26.0988948943,27.995749712,Sierra Square,ZA,Johannesburg,0,-26.0988274501,27.9956263304
+Jardin D ebene Boutique Guesthouse,ZA,Cape Town,4,-33.930849326,18.4044036269,Jardin d'Ã©bÃ¨ne Boutique Guesthouse,ZA,Cape Town,4,-33.9302466691,18.4035681188
+Hilton Sandton Hotel,ZA,Johannesburg,5,-26.1017564192,28.0599725246,Hilton Sandton,ZA,Johannesburg,5,-26.1017419672,28.0598142743
+Dysart Boutique Hotel,ZA,Cape Town,5,-33.9090080811,18.4072373807,DysArt Boutique Hotel,ZA,Cape Town,5,-33.9089145877,18.4072172642
+Sunward Park Guest House,ZA,Johannesburg,4,-26.258875,28.253059,Sunward Park Guesthouse & Conference Center,ZA,Boksburg,4,-26.2590996626,28.2530540228
+LovanE Boutique Wine Estate and Guest House,ZA,Stellenbosch,4,-33.9525537024,18.8006275892,Lovane Boutique Wine Estate,ZA,Stellenbosch,4,-33.9515880932,18.8004988432
+Airlies Bed and Breakfast,ZA,Montagu,0,-33.7871208191,20.1197795868,Airlies B&B,ZA,Montagu,0,-33.7871840023,20.1197567582
+Gubas De Hoek meet eat sleep,ZA,Robertson,4,-33.8039760918,19.8858493567,GuBas De Hoek meet eat sleep,ZA,Robertson,4,-33.804075272,19.8857179284
+La Providence Guest House,ZA,Franschhoek,5,-33.91782716,19.12806764,La Providence,ZA,Franschhoek,0,-33.9178271604,19.1280676425
+Far Hills Hotel,ZA,Wilderness,3,-33.9916850227,22.5334846973,Far Hills Country Hotel,ZA,Wilderness,3,-33.991347,22.533007
+Upperbloem Guesthouse and Apartments,ZA,Cape Town,3,-33.9222221375,18.411365509,Upperbloem,ZA,Cape Town,0,-33.9222100947,18.4114001691
+Summit Place Guest House,ZA,Cape Town,4,-34.0356636047,18.4305801392,Summit Place Guesthouse,ZA,Constantia,4,-34.0357506856,18.4305337071
+Miles Bed and Breakfast Guest House,ZA,Oudtshoorn,3,-33.5872701214,22.1954512596,Miles B&B Guest House,ZA,Oudtshoorn,3,-33.5873058718,22.1956121922
+Peermont D'oreale Grande at Emperors Palace Johannesburg,ZA,Johannesburg,5,-26.1444541869,28.2212591171,Peermont D'oreale Grande at Emperors Palace,ZA,Kempton Park,5,-26.1489084974,28.2233190536
+Peermont Mondior at Emperors Palace Johannesburg,ZA,Johannesburg,4,-26.1442471175,28.2212886214,Mondior at Emperors Palace,ZA,Kempton Park,4,-26.1488507129,28.2233941555
+Farr Out Guesthouse,ZA,Paternoster,4,-32.8208198547,17.8933811188,Farr Out Guest House,ZA,Paternoster,4,-32.8207827606,17.8938558698
+Peermont Metcourt Suites at Emperors Palace Johannesburg,ZA,Johannesburg,3,-26.1469630681,28.2230186462,Peermont Metcourt Suites at Emperors Palace,ZA,Kempton Park,3,-26.1488314514,28.2233190536
+Peermont Walmont at Graceland Secunda,ZA,Secunda,4,-26.511994,29.162144,Walmont at Graceland,ZA,Secunda,4,-26.5124679101,29.1619098186
+San Lameer Resort Hotel and Spa,ZA,San Lameer,4,-30.9431266417,30.2895641327,San Lameer Resort Hotel & Spa,ZA,Southbroom,4,-30.944701992,30.2972218394
+Belmont Guest House,ZA,Bloemfontein,4,-29.0911270003,26.2274122238,Belmont Guesthouse,ZA,Bloemfontein,4,-29.1062952265,26.2203150988
+La Boheme Bed and Breakfast,ZA,Plettenberg Bay,4,-34.0512904904,23.3616757393,La Boheme B&B,ZA,Plettenberg Bay,4,-34.0512482665,23.361581862
+Primi Royal Hotel,ZA,Cape Town,4,-33.9551345395,18.3778202534,Primi Royal,ZA,Cape Town,4,-33.9552302069,18.3778470755
+40 Winks Accommodation Somerset West,ZA,Cape Town,0,-34.0785560608,18.8340415955,40 Winks Accommodation,ZA,Somerset West,3,-34.0787026767,18.8339915872
+MIlkwood Lodge,ZA,Hermanus,4,-34.4078678558,19.2849782109,Milkwood Lodge,ZA,Hermanus,4,-34.4082374124,19.2847073078
+Chapmans Peak Bed and Breakfast,ZA,Cape Town,4,-34.029457,18.345348,Chapman's Peak Bed and Breakfast,ZA,Hout Bay,4,-34.0293957033,18.3455479145
+Forever Hotel at Centurion,ZA,Pretoria,4,-25.834781,28.194032,Protea Hotel Centurion,ZA,Centurion,4,-25.8532231054,28.1865245104
+Protea Hotel Edward,ZA,Durban,4,-29.8542930245,31.0385334492,Protea Hotel Edward Durban,ZA,Durban,4,-29.8542767407,31.0385736823
+Protea Hotel Marine,ZA,Port Elizabeth,4,-33.9841502181,25.6667232513,Protea Hotel Marine Port Elizabeth,ZA,Port Elizabeth,4,-33.984790747,25.6662940979
+Mont Fleur Wilderness Bed and Breakfast,ZA,Wilderness,4,-33.9917488098,22.582660675,Mont Fleur B&B,ZA,Wilderness,4,-33.9917939922,22.5826388597
+Brookes Hill Suites,ZA,Port Elizabeth,4,-33.9784675373,25.6508955359,Brookes Hill Suites Hotel,ZA,Port Elizabeth,3,-33.9784119319,25.6520569324
+Protea Hotel Fire and Ice Cape Town,ZA,Cape Town,4,-33.9267677333,18.4115731716,Protea Hotel Fire & Ice! Cape Town,ZA,Cape Town,4,-33.926815583,18.4114135802
+WedgeView Country House and Spa,ZA,Stellenbosch,5,-33.9487724304,18.7717285156,Wedgeview Country House & Spa,ZA,Stellenbosch,5,-33.9486956499,18.7716650963
+Lombardy Boutique Hotel,ZA,Pretoria,5,-25.792453,28.361064,Lombardy Boutique Hotel & Conference Venue,ZA,Pretoria,5,-25.792453,28.361064
+Dreamcatcher Hotel,ZA,Tulbagh,3,-33.2795677185,19.1420497894,Dreamcatcher,ZA,Tulbagh,3,-33.279686,19.141831
+4 Wild Rose Country Lodge,ZA,Cape Town,4,-34.1064033508,18.3833885193,Wild Rose Country Lodge,ZA,Noordhoek,4,-34.1102855687,18.3832544088
+18 on Kloof Bed and Breakfast,ZA,Cape Town,4,-34.1647510568,18.8640336692,18 On Kloof Bed & Breakfast,ZA,GordonÊ¼s Bay,4,-34.1647144379,18.8639974594
+Ginnegaap Guest House,ZA,Johannesburg,3,-26.1758518219,28.0038928986,Ginnegaap Guesthouse,ZA,Johannesburg,0,-26.1759148321,28.0039505661
+Primi Seacastle Hotel,ZA,Cape Town,4,-33.9487991333,18.3791942596,Primi Seacastle,ZA,Cape Town,4,-33.948918149,18.3791989088
+Matembe Leisure Guesthouse,ZA,Cape Town,3.5,-34.1068699695,18.8293030858,Matembe Leisure,ZA,Strand,3,-34.1068499819,18.8293835521
