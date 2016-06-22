@@ -7,6 +7,7 @@
 		and saving each sheet as csv.
 	b. for each csv, remove headers: cat file.csv | tail -n +2 > no_headers_file.csv	
 
+#
 ##Build
 1. sbt assembly plugin required (already exists under project/assembly.sbt)
 2. Build command:  sbt assembly
