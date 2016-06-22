@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70940c73-fa8f-4bed-9e31-08e06877f5a9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.IdeaIC15/config/options/extensionsRootType.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.IdeaIC15/config/options/file.template.settings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/Parser.scala" afterPath="$PROJECT_DIR$/src/main/scala/Parser.scala" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/README.md" afterPath="$USER_HOME$/README.md" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/IdeaProjects/introduction-to-fp-in-scala/src/main/scala/intro/tests.sc" afterPath="$USER_HOME$/IdeaProjects/introduction-to-fp-in-scala/src/main/scala/intro/tests.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="spark_match.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -106,8 +104,8 @@
       <file leaf-file-name="Parser.scala" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/Parser.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.14084508">
-              <caret line="118" column="0" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.6830986">
+              <caret line="147" column="7" selection-start-line="147" selection-start-column="4" selection-end-line="147" selection-end-column="7" />
               <folding>
                 <element signature="e#0#44#0" expanded="true" />
               </folding>
@@ -659,8 +657,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/Parser.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14084508">
-          <caret line="118" column="0" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.6830986">
+          <caret line="147" column="7" selection-start-line="147" selection-start-column="4" selection-end-line="147" selection-end-column="7" />
           <folding>
             <element signature="e#0#44#0" expanded="true" />
           </folding>

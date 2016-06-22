@@ -46,7 +46,7 @@ object Parser {
 
     match_rdd.foreach{x=>
       val dp = x.toDataPoint
-      println(x.a_hotel_name +"=="+x.b_hotel_name+"--"+dp(0) + " -- " + dp(1) + " -- " + dp(2))
+    //  println(x.a_hotel_name +"=="+x.b_hotel_name+"--"+dp(0) + " -- " + dp(1) + " -- " + dp(2))
     }
     val matching_df = match_rdd.sortBy(_.a_hotel_name,true).zipWithIndex.map(x=>(x._2,x._1)).toDF
 
@@ -75,10 +75,11 @@ object Parser {
 
     no_matching_rdd.foreach{x=>
       val dp = x.toDataPoint
-      println(x.a_hotel_name +"<>"+x.b_hotel_name+"--"+dp(0) + " -- " + dp(1) + " -- " + dp(2))
+    //  println(x.a_hotel_name +"<>"+x.b_hotel_name+"--"+dp(0) + " -- " + dp(1) + " -- " + dp(2))
     }
 
-
+    println("Match: "+match_rdd.count())
+    println("No Match: "+no_matching_rdd.count())
 val match_labeled = match_rdd.map{
 m=>
   new LabeledPoint(m.label,Vectors.dense(m.toDataPoint()))
@@ -111,7 +112,7 @@ val prediction = model.predict(point.features)
 
 val testErr = labelAndPreds.filter(r => r._1 != r._2).count().toDouble / testData.count()
 println("Test Error = " + testErr)
-println("Learned classification tree model:\n" + model.toDebugString)
+//println("Learned classification tree model:\n" + model.toDebugString)
 
 // Save and load model
 model.save(sc, "target/tmp/myDecisionTreeClassificationModel")
@@ -143,7 +144,9 @@ r=>
   val (side_a,side_b) = r._1
   val pred = sameModel.predict(Vectors.dense(f_vec))
   if(pred==1.0)
-    println(s"${r._2.a_hotel_name} -- ${r._2.b_hotel_name}, id_a: ${side_a._1}, id_b: ${side_b._1},${f_vec(0)},${f_vec(1)}")
+    //println(s"${r._2.a_hotel_name} -- ${r._2.b_hotel_name}, id_a: ${side_a._1}, id_b: ${side_b._1},${f_vec(0)},${f_vec(1)}")
+    println(s"${side_a._1},${side_b._1}")
+
 }
 
 }
