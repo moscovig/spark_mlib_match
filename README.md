@@ -7,7 +7,7 @@
 		and saving each sheet as csv.
 	b. for each csv, remove headers: cat file.csv | tail -n +2 > no_headers_file.csv	
 
-#Build
+##Build
 1. sbt assembly plugin required (already exists under project/assembly.sbt)
 2. Build command:  sbt assembly
 3. The executable sohuld be found under target/scala-2.10/  (the folder will be created after the build ) 
@@ -16,7 +16,7 @@
 #SPARK
 1. Spark 1.6.1 is required
 
-#Run using spark standalone
+##Run using spark standalone
 1. move the jar into your spark environment  (for instance /home/spark/jars)
 2. move the data files into spark host  (for instance - /home/spark/data/)
 3. submit command: 
@@ -30,31 +30,31 @@
  2. the ids are the position of the hotel in the original xlsx file 
 	
 ##ML Model
-#Ceaning the data: for each hotel  - 
+Ceaning the data: for each hotel  - 
 	a. remove latin tokens
 	b. remove tokens of the city name from the hotel name
 	c. remove stop words from the hotel names 
 
-#Classes: 
+##Classes: 
 1 - matching
 0 - not maching
 
-#Blocking
+##Blocking
 Country field
 
-#DataPoints
+##DataPoints
 joining the 2 partners lists on the Countr Field and make vector of hotel_a,hotel_b,Features 
 
-#Features:
+##Features:
 Array(lev_dist_name,rank_dist,geo_dist)
 where lev_dist_name is levenshtein distance, normalized with the hotel name length
 
 #Training set:
 Based on training.csv which contains only matching samples.
 For adding non-matching samples, we join the training set with itself on
-(country_a=country_b and id_a!=id_b), using DataFrame. 
+(country_a=country_b and id_a!=id_b) 
 
-#Spark Model params
+##Spark Model params
 val numClasses = 2
 val categoricalFeaturesInfo = Map[Int, Int](2->6)
 val impurity = "gini"
@@ -63,3 +63,7 @@ val maxBins = 32
 
 val model = DecisionTree.trainClassifier(trainingData, numClasses, categoricalFeaturesInfo,
 impurity, maxDepth, maxBins)
+
+
+##Other thoughts:
+Using google maps to get the location_id for each hotel. Might be too slow.

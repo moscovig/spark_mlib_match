@@ -38,10 +38,7 @@ object Parser {
         cleanHotelName(rec(6),rec(8)),rec(7),removeLatin(rec(8)),rec(9).toDouble,rec(10).toDouble,rec(11).toDouble)
     }
 
-
-//prepare a new rdd - combine non-matching and matching samples rdds
-//took a_hotel from matching list and combine with b_hotel from the reversed matching list (i a_hotel-> n-i b_hotel)
-//this wasn't good cause we got only hotels that are very far from each other
+    
 
 
     match_rdd.foreach{x=>
