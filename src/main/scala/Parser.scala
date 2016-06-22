@@ -1,7 +1,12 @@
 import org.apache.spark.mllib.linalg.Vectors
 import org.apache.spark.mllib.regression.LabeledPoint
 import org.apache.spark.mllib.tree.DecisionTree
+import org.apache.spark.mllib.tree.configuration.{Algo, Strategy}
 import org.apache.spark.mllib.tree.model.DecisionTreeModel
+import org.apache.spark.mllib.classification.LogisticRegressionWithLBFGS
+import org.apache.spark.mllib.evaluation.BinaryClassificationMetrics
+import org.apache.spark.mllib.regression.LabeledPoint
+import org.apache.spark.mllib.util.MLUtils
 import org.apache.spark.rdd.RDD
 import org.apache.spark.sql.Row
 import org.apache.spark.{SparkContext, SparkConf}
@@ -38,7 +43,7 @@ object Parser {
         cleanHotelName(rec(6),rec(8)),rec(7),removeLatin(rec(8)),rec(9).toDouble,rec(10).toDouble,rec(11).toDouble)
     }
 
-    
+
 
 
     match_rdd.foreach{x=>
@@ -101,10 +106,29 @@ val maxBins = 32
 val model = DecisionTree.trainClassifier(trainingData, numClasses, categoricalFeaturesInfo,
 impurity, maxDepth, maxBins)
 
+
+    //PR section
+
+    val predictionAndLabels = testData.map { case LabeledPoint(label, features) =>
+      val prediction = model.predict(features)
+      (prediction, label)
+    }
+    val metrics = new BinaryClassificationMetrics(predictionAndLabels)
+    val PRC = metrics.pr
+    println("plot: ")
+      PRC.foreach(println)
+    println("end of plot")
+
+
+
+
+
 val labelAndPreds = testData.map { point =>
 val prediction = model.predict(point.features)
 (point.label, prediction)
 }
+
+
 
 
 val testErr = labelAndPreds.filter(r => r._1 != r._2).count().toDouble / testData.count()
@@ -117,6 +141,9 @@ model.save(sc, "target/tmp/myDecisionTreeClassificationModel")
 
 
 val sameModel = DecisionTreeModel.load(sc, "target/tmp/myDecisionTreeClassificationModel")
+
+
+
 val part1_rdd = sc.textFile(part1_path).map(_.split(","))
 val part2_rdd = sc.textFile(part2_path).map(_.split(","))
 

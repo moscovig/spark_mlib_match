@@ -19,7 +19,14 @@
 ##Run using spark standalone
 1. move the jar into your spark environment  (for instance /home/spark/jars)
 2. move the data files into spark host  (for instance - /home/spark/data/)
-3. submit command: 
+3. submit command:
+
+	Remove any existing model:
+
+	rm -rf  /home/spark/target/tmp/myDecisionTreeClassificationModel/*
+
+	run:
+
 	spark-submit  /home/spark/jars/spark_match-assembly-1.0.jar  /home/spark/data/training.csv  /home/spark/data/partner1.csv  /home/spark/data/partner2.csv  > result.csv
 
 #Result
@@ -54,6 +61,12 @@ Based on training.csv which contains only matching samples.
 For adding non-matching samples, we join the training set with itself on
 (country_a=country_b and id_a!=id_b) 
 
+We have:
+Match: 500 samples
+No Match: 55240 samples
+
+
+#
 ##Spark Model params
 val numClasses = 2
 val categoricalFeaturesInfo = Map[Int, Int](2->6)
