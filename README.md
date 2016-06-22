@@ -37,8 +37,8 @@
 
  2. the ids are the position of the hotel in the original xlsx file 
 	
-##ML Model
-Ceaning the data: for each hotel  - 
+#ML Model
+##Ceaning the data: for each hotel  - 
 	a. remove latin tokens
 	b. remove tokens of the city name from the hotel name
 	c. remove stop words from the hotel names 
